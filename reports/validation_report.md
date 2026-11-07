@@ -1,6 +1,6 @@
 # Data validation report
 
-Generated: 2026-11-07T05:47:10.887919+00:00  
+Generated: 2026-11-07T09:52:21.658404+00:00  
 Source: `movielens_100k`
 
 Rows that fail an **error** check are removed and saved to `data/errors/<table>_errors.csv` with the failed checks listed. **Warnings** are kept and handled in data preparation.

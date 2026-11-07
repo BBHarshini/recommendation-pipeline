@@ -1,11 +1,11 @@
 {
-  "trained_at": "2026-11-07T05:47:27.584368+00:00",
+  "trained_at": "2026-11-07T09:52:25.690036+00:00",
   "train_cutoff": "1998-03-07T02:21:09+00:00",
   "tracking_backend": "mlflow",
   "models": {
     "popularity": {
       "path": "models\\popularity.pkl",
-      "run_id": "b8a63f2236a24996af560691d41dd17a",
+      "run_id": "cdc6040fd92d4a158901d7b8021396f7",
       "params": {
         "score": "count"
       },
@@ -13,25 +13,25 @@
     },
     "als_implicit": {
       "path": "models\\als_implicit.pkl",
-      "run_id": "f8a5ff353104416b85e19c4466fde573",
+      "run_id": "45705535a475430a83c4d68fb751770d",
       "params": {
         "factors": 32,
         "regularization": 0.1,
         "alpha": 10.0,
         "iterations": 15
       },
-      "training_seconds": 2.97
+      "training_seconds": 2.27
     },
     "mf_explicit": {
       "path": "models\\mf_explicit.pkl",
-      "run_id": "3696a6c1e5b8469297f9ad7cf9d00a64",
+      "run_id": "371acce73fbd451394a085d7d3f2c7d5",
       "params": {
         "factors": 32,
         "learning_rate": 0.01,
         "regularization": 0.05,
         "epochs": 30
       },
-      "training_seconds": 36.42
+      "training_seconds": 33.46
     }
   }
 }
