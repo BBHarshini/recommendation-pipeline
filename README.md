@@ -48,8 +48,7 @@ Tested on Ubuntu (WSL2 on Windows). Python 3.11 or 3.12 is recommended because M
 
 ```bash
 # 1. get the code
-git clone <your-repo-url> recommendation-pipeline
-cd recommendation-pipeline
+git clone https://github.com/BBHarshini/recommendation-pipeline.gitcd recommendation-pipeline
 
 # 2. create an environment with Python 3.12 using uv
 curl -LsSf https://astral.sh/uv/install.sh | sh
