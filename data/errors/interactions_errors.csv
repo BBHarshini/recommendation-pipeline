@@ -1,0 +1,13 @@
+user_id,item_id,rating,timestamp,record_source,failed_checks
+196,242,3,881250949,injected_test,duplicate_record
+196,242,0,881250949,injected_test,invalid_rating
+196,242,7,881250949,injected_test,invalid_rating
+196,242,4.5,881250949,injected_test,invalid_rating
+196,242,five,881250949,injected_test,invalid_type
+196,242,,881250949,injected_test,missing_value
+196,242,3,not_a_time,injected_test,invalid_timestamp
+196,242,3,2051222400,injected_test,invalid_timestamp
+196,242,3,100000000,injected_test,invalid_timestamp
+99999,242,3,881250949,injected_test,unknown_user
+196,99999,3,881250949,injected_test,unknown_item
+abc,242,3,881250949,injected_test,invalid_type

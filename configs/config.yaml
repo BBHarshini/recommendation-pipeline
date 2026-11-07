@@ -1,0 +1,73 @@
+# Pipeline configuration. Every stage reads its settings from this file,
+# so a run can be reproduced by keeping this file and the seed unchanged.
+
+project_name: movielens-recommender
+seed: 42
+
+data:
+  # "movielens_100k" downloads the public MovieLens 100K dataset.
+  # "synthetic" generates a dataset with the same layout (useful offline).
+  source: movielens_100k
+  movielens_url: https://files.grouplens.org/datasets/movielens/ml-100k.zip
+  raw_dir: data/raw
+  validated_dir: data/validated
+  processed_dir: data/processed
+  features_dir: data/features
+  errors_dir: data/errors
+  # Adds a small, clearly labelled set of broken records during ingestion so
+  # that every validation check can be seen working. They never reach training.
+  inject_test_errors: true
+
+synthetic:
+  n_users: 943
+  n_items: 1682
+  n_ratings: 100000
+
+validation:
+  rating_min: 1
+  rating_max: 5
+  age_min: 1
+  age_max: 100
+  allowed_genders: [M, F]
+  earliest_timestamp: "1995-01-01"   # nothing older than this is plausible
+  # the latest allowed timestamp is "now", so future dates are rejected
+
+split:
+  # Time-based split: the latest 20% of interactions (by timestamp) form the test set.
+  test_fraction: 0.2
+  # A test rating at or above this value counts as a relevant item.
+  relevance_threshold: 4
+
+features:
+  bayes_prior_weight: 10        # shrinkage used for the item Bayesian average rating
+
+training:
+  min_item_ratings: 5           # items with fewer training ratings are not recommended
+  models:
+    popularity:
+      enabled: true
+      score: count              # rank by "count" (most rated) or "bayes_rating"
+    als_implicit:
+      enabled: true
+      factors: 32
+      regularization: 0.1
+      alpha: 10.0
+      iterations: 15
+    mf_explicit:
+      enabled: true
+      factors: 32
+      learning_rate: 0.01
+      regularization: 0.05
+      epochs: 30
+
+evaluation:
+  k: 10
+
+tracking:
+  experiment_name: movielens-recommender
+  tracking_uri: sqlite:///mlflow.db
+
+paths:
+  models_dir: models
+  reports_dir: reports
+  logs_dir: logs

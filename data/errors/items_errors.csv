@@ -1,0 +1,3 @@
+item_id,title,release_date,video_release_date,imdb_url,genres,record_source,failed_checks
+1,Duplicate entry,01-Jan-1995,,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995),Animation|Children's|Comedy,injected_test,duplicate_id
+9001,,01-Jan-1995,,http://us.imdb.com/M/title-exact?Toy%20Story%20(1995),Animation|Children's|Comedy,injected_test,missing_value

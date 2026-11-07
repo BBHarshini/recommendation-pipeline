@@ -1,0 +1,6 @@
+user_id,age,gender,occupation,zip_code,record_source,failed_checks
+1,33,M,technician,85711,injected_test,duplicate_id
+5001,24,,technician,85711,injected_test,missing_value
+5002,250,M,technician,85711,injected_test,age_out_of_range
+5003,24,X,technician,85711,injected_test,invalid_gender
+5004,thirty,M,technician,85711,injected_test,invalid_type

@@ -1,0 +1,951 @@
+user_id,rank,item_id,score,title,genres
+1,1,475,1.3400026432725736,Trainspotting (1996),Drama
+1,2,455,1.252910474989423,Jackie Chan's First Strike (1996),Action
+1,3,462,1.2156582396988989,Like Water For Chocolate (Como agua para chocolate) (1992),Drama|Romance
+1,4,509,1.2151482134697213,My Left Foot (1989),Drama
+1,5,276,1.1564164251430984,Leaving Las Vegas (1995),Drama|Romance
+1,6,318,1.1558942094082096,Schindler's List (1993),Drama|War
+1,7,423,1.1486037843418924,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+1,8,515,1.14489663166691,"Boot, Das (1981)",Action|Drama|War
+1,9,919,1.1428193694175208,"City of Lost Children, The (1995)",Adventure|Sci-Fi
+1,10,732,1.1243578666076788,Dave (1993),Comedy|Romance
+3,1,340,0.9536117145500485,Boogie Nights (1997),Drama
+3,2,313,0.900219152298785,Titanic (1997),Action|Drama|Romance
+3,3,346,0.8647241313285463,Jackie Brown (1997),Crime|Drama
+3,4,331,0.8478943129805069,"Edge, The (1997)",Adventure|Thriller
+3,5,327,0.8478691148396007,Cop Land (1997),Crime|Drama|Mystery
+3,6,269,0.7999266757246772,"Full Monty, The (1997)",Comedy
+3,7,750,0.7918396907642267,Amistad (1997),Drama
+3,8,751,0.7907295824411205,Tomorrow Never Dies (1997),Action|Romance|Thriller
+3,9,347,0.78812547964572,Wag the Dog (1997),Comedy|Drama
+3,10,328,0.7806174686885327,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+13,1,269,1.5517736591626772,"Full Monty, The (1997)",Comedy
+13,2,1028,1.34073944241752,Grumpier Old Men (1995),Comedy|Romance
+13,3,162,1.220345604881762,On Golden Pond (1981),Drama
+13,4,192,1.167607115520787,Raging Bull (1980),Drama
+13,5,642,1.1103505153561453,"Grifters, The (1990)",Crime|Drama|Film-Noir
+13,6,85,1.1043818736202526,"Ref, The (1994)",Comedy
+13,7,134,1.0923439230164496,Citizen Kane (1941),Drama
+13,8,702,1.0893395041810483,Barcelona (1994),Comedy|Romance
+13,9,171,1.0759068297947147,Delicatessen (1991),Comedy|Sci-Fi
+13,10,713,1.0691898372901727,Othello (1995),Drama
+14,1,1,1.1246246108460922,Toy Story (1995),Animation|Children's|Comedy
+14,2,137,0.9701553069040056,Big Night (1996),Drama
+14,3,208,0.9667766074120354,Young Frankenstein (1974),Comedy|Horror
+14,4,274,0.9373934943960471,Sabrina (1995),Comedy|Romance
+14,5,50,0.931419726722137,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+14,6,237,0.914045539414835,Jerry Maguire (1996),Drama|Romance
+14,7,150,0.8665802799997657,Swingers (1996),Comedy|Drama
+14,8,508,0.8609157839470238,"People vs. Larry Flynt, The (1996)",Drama
+14,9,181,0.8309690292412664,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+14,10,209,0.8166705158214834,This Is Spinal Tap (1984),Comedy|Drama|Musical
+43,1,255,1.2838796790539357,My Best Friend's Wedding (1997),Comedy|Romance
+43,2,245,1.1677250855269836,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+43,3,678,1.0937236217910937,Volcano (1997),Drama|Thriller
+43,4,147,1.0181434721801723,"Long Kiss Goodnight, The (1996)",Action|Thriller
+43,5,124,1.0173709771091466,Lone Star (1996),Drama|Mystery
+43,6,239,1.0095598145849536,Sneakers (1992),Crime|Drama|Sci-Fi
+43,7,99,1.0012325891955771,Snow White and the Seven Dwarfs (1937),Animation|Children's|Musical
+43,8,126,0.9954297761823273,"Spitfire Grill, The (1996)",Drama
+43,9,451,0.9557281929856616,Grease (1978),Comedy|Musical|Romance
+43,10,83,0.9545458060045564,Much Ado About Nothing (1993),Comedy|Romance
+54,1,300,1.0540169202174277,Air Force One (1997),Action|Thriller
+54,2,294,1.0300867232625697,Liar Liar (1997),Comedy
+54,3,298,1.0083416121002402,Face/Off (1997),Action|Sci-Fi|Thriller
+54,4,222,0.9341443730962028,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+54,5,1016,0.8565074847352154,Con Air (1997),Action|Adventure|Thriller
+54,6,323,0.8476889371677343,Dante's Peak (1997),Action|Thriller
+54,7,293,0.8402265422367518,Donnie Brasco (1997),Crime|Drama
+54,8,282,0.83902900543516,"Time to Kill, A (1996)",Drama
+54,9,125,0.8219295134669516,Phenomenon (1996),Drama|Romance
+54,10,410,0.807581434654148,Kingpin (1996),Comedy
+58,1,1101,1.1111464741067474,Six Degrees of Separation (1993),Drama|Mystery
+58,2,168,1.0485655588319003,Monty Python and the Holy Grail (1974),Comedy
+58,3,55,1.0161727971290906,"Professional, The (1994)",Crime|Drama|Romance|Thriller
+58,4,24,0.9967042817999902,Rumble in the Bronx (1995),Action|Adventure|Crime
+58,5,258,0.9840255281986864,Contact (1997),Drama|Sci-Fi
+58,6,96,0.9827677722097768,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+58,7,79,0.938583047826361,"Fugitive, The (1993)",Action|Thriller
+58,8,183,0.9315214146919628,Alien (1979),Action|Horror|Sci-Fi|Thriller
+58,9,154,0.9181709116705263,Monty Python's Life of Brian (1979),Comedy
+58,10,628,0.9144697904795351,Sleepers (1996),Crime|Drama
+60,1,520,1.2230598883942159,"Great Escape, The (1963)",Adventure|War
+60,2,662,1.2190662675284267,Somewhere in Time (1980),Drama|Romance
+60,3,504,1.164386841702731,Bonnie and Clyde (1967),Crime|Drama
+60,4,611,1.1531116195310271,Laura (1944),Crime|Film-Noir|Mystery
+60,5,432,1.0901761592380166,Fantasia (1940),Animation|Children's|Musical
+60,6,100,1.0880921901985372,Fargo (1996),Crime|Drama|Thriller
+60,7,448,1.0734664903518731,"Omen, The (1976)",Horror
+60,8,639,1.0326308497090946,"Tin Drum, The (Blechtrommel, Die) (1979)",Drama
+60,9,631,1.0234777843447698,"Crying Game, The (1992)",Action|Drama|Romance|War
+60,10,497,1.0053612090491204,Bringing Up Baby (1938),Comedy
+64,1,286,0.8860673799533094,"English Patient, The (1996)",Drama|Romance|War
+64,2,50,0.8552944214426395,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+64,3,294,0.8002815595006123,Liar Liar (1997),Comedy
+64,4,181,0.7958988681841502,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+64,5,276,0.7918094382580975,Leaving Las Vegas (1995),Drama|Romance
+64,6,328,0.7882478302740231,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+64,7,237,0.7677197165075429,Jerry Maguire (1996),Drama|Romance
+64,8,9,0.7403807318902687,Dead Man Walking (1995),Drama
+64,9,15,0.7247488219288365,Mr. Holland's Opus (1995),Drama
+64,10,117,0.6778075992720523,"Rock, The (1996)",Action|Adventure|Thriller
+83,1,304,1.0496229087274291,Fly Away Home (1996),Adventure|Children's
+83,2,934,1.039117462860006,"Preacher's Wife, The (1996)",Drama
+83,3,143,1.038069131891728,"Sound of Music, The (1965)",Musical
+83,4,328,1.01183809423378,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+83,5,237,0.9841274542563263,Jerry Maguire (1996),Drama|Romance
+83,6,257,0.9829108451329084,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+83,7,471,0.9787761976482747,Courage Under Fire (1996),Drama|War
+83,8,8,0.976414096125116,Babe (1995),Children's|Comedy|Drama
+83,9,202,0.9726402693770684,Groundhog Day (1993),Comedy|Romance
+83,10,282,0.9621646418849247,"Time to Kill, A (1996)",Drama
+85,1,429,1.1261258039856332,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+85,2,490,1.0714336973536875,To Catch a Thief (1955),Comedy|Romance|Thriller
+85,3,640,1.0638126012524878,"Cook the Thief His Wife & Her Lover, The (1989)",Drama
+85,4,257,1.061071573597732,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+85,5,294,1.0212496073819903,Liar Liar (1997),Comedy
+85,6,607,1.0180388542777747,Rebecca (1940),Romance|Thriller
+85,7,652,1.016846893992097,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama
+85,8,198,0.9853115386300254,Nikita (La Femme Nikita) (1990),Thriller
+85,9,1063,0.979599197391162,"Little Princess, A (1995)",Children's|Drama
+85,10,942,0.9700971489903875,What's Love Got to Do with It (1993),Drama
+92,1,70,1.3902683315008222,Four Weddings and a Funeral (1994),Comedy|Romance
+92,2,462,1.183417357057626,Like Water For Chocolate (Como agua para chocolate) (1992),Drama|Romance
+92,3,569,1.129937183714871,Wolf (1994),Drama|Horror
+92,4,1014,1.1082497314973638,Romy and Michele's High School Reunion (1997),Comedy
+92,5,86,1.107077836966425,"Remains of the Day, The (1993)",Drama
+92,6,549,1.0837118302255302,Rob Roy (1995),Drama|Romance|War
+92,7,716,1.0758047622443394,Home for the Holidays (1995),Drama|Romance
+92,8,792,1.0660985624385309,Bullets Over Broadway (1994),Comedy
+92,9,97,1.0597698857460975,Dances with Wolves (1990),Adventure|Drama|Western
+92,10,509,1.0449399347732113,My Left Foot (1989),Drama
+94,1,56,1.1663820307333796,Pulp Fiction (1994),Crime|Drama
+94,2,357,1.147776157639639,One Flew Over the Cuckoo's Nest (1975),Drama
+94,3,318,1.0285269938259363,Schindler's List (1993),Drama|War
+94,4,198,1.006443871139874,Nikita (La Femme Nikita) (1990),Thriller
+94,5,98,1.0063865259976694,"Silence of the Lambs, The (1991)",Drama|Thriller
+94,6,238,0.9679373095895236,Raising Arizona (1987),Comedy
+94,7,462,0.9495642139258713,Like Water For Chocolate (Como agua para chocolate) (1992),Drama|Romance
+94,8,168,0.9448100307886986,Monty Python and the Holy Grail (1974),Comedy
+94,9,170,0.9399774832786576,Cinema Paradiso (1988),Comedy|Drama|Romance
+94,10,32,0.9376057611798652,Crumb (1994),Documentary
+102,1,323,1.2138614982278728,Dante's Peak (1997),Action|Thriller
+102,2,679,1.0512018106087033,Conan the Barbarian (1981),Action|Adventure
+102,3,250,1.0195122838412767,"Fifth Element, The (1997)",Action|Sci-Fi
+102,4,678,0.9946840286361815,Volcano (1997),Drama|Thriller
+102,5,333,0.9920063253188616,"Game, The (1997)",Mystery|Thriller
+102,6,451,0.9780548594768892,Grease (1978),Comedy|Musical|Romance
+102,7,472,0.8966479688554656,Dragonheart (1996),Action|Adventure|Fantasy
+102,8,163,0.8953493744616565,"Return of the Pink Panther, The (1974)",Comedy
+102,9,413,0.860700142514307,Tales from the Crypt Presents: Bordello of Blood (1996),Horror
+102,10,331,0.8474483900236889,"Edge, The (1997)",Adventure|Thriller
+112,1,326,0.9738069357736552,G.I. Jane (1997),Action|Drama|War
+112,2,340,0.9393432917454465,Boogie Nights (1997),Drama
+112,3,343,0.8830300511276801,Alien: Resurrection (1997),Action|Horror|Sci-Fi
+112,4,270,0.8519690010068,Gattaca (1997),Drama|Sci-Fi|Thriller
+112,5,271,0.8498666114271601,Starship Troopers (1997),Action|Adventure|Sci-Fi|War
+112,6,288,0.819604751235214,Scream (1996),Horror|Thriller
+112,7,315,0.8043142461106382,Apt Pupil (1998),Drama|Thriller
+112,8,292,0.7641294860263228,Rosewood (1997),Drama
+112,9,305,0.7356877662797625,"Ice Storm, The (1997)",Drama
+112,10,346,0.7290173584657829,Jackie Brown (1997),Crime|Drama
+116,1,312,1.0993758054330391,Midnight in the Garden of Good and Evil (1997),Comedy|Crime|Drama|Mystery
+116,2,223,1.0824945491905655,Sling Blade (1996),Drama|Thriller
+116,3,303,1.0692695555412894,Ulee's Gold (1997),Drama
+116,4,45,1.0542345232046677,Eat Drink Man Woman (1994),Comedy|Drama
+116,5,293,1.0418692969728538,Donnie Brasco (1997),Crime|Drama
+116,6,923,0.9589422550012655,Raise the Red Lantern (1991),Drama
+116,7,134,0.9287368786007397,Citizen Kane (1941),Drama
+116,8,427,0.9168122497545819,To Kill a Mockingbird (1962),Drama
+116,9,751,0.9100260526696675,Tomorrow Never Dies (1997),Action|Romance|Thriller
+116,10,197,0.9008220279346908,"Graduate, The (1967)",Drama|Romance
+119,1,291,1.8173681631014416,Absolute Power (1997),Mystery|Thriller
+119,2,433,1.388074847853038,Heathers (1989),Comedy
+119,3,10,1.3416662707056068,Richard III (1995),Drama|War
+119,4,1011,1.3302451740492613,2 Days in the Valley (1996),Crime
+119,5,975,1.1867168150101537,Fear (1996),Thriller
+119,6,290,1.1837965690550423,Fierce Creatures (1997),Comedy
+119,7,307,1.1511218843170168,"Devil's Advocate, The (1997)",Crime|Horror|Mystery|Thriller
+119,8,744,1.1404692362624602,Michael Collins (1996),Drama|War
+119,9,284,1.115559418799339,Tin Cup (1996),Comedy|Romance
+119,10,1047,1.0994067276802237,Multiplicity (1996),Comedy
+125,1,202,1.05024326860106,Groundhog Day (1993),Comedy|Romance
+125,2,238,0.9477460507377098,Raising Arizona (1987),Comedy
+125,3,183,0.8977947228992667,Alien (1979),Action|Horror|Sci-Fi|Thriller
+125,4,603,0.8964668436051483,Rear Window (1954),Mystery|Thriller
+125,5,423,0.8884181095850945,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+125,6,655,0.8706004031231774,Stand by Me (1986),Adventure|Comedy|Drama
+125,7,497,0.8557830081888599,Bringing Up Baby (1938),Comedy
+125,8,228,0.8476152527099281,Star Trek: The Wrath of Khan (1982),Action|Adventure|Sci-Fi
+125,9,96,0.8250439006804281,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+125,10,132,0.8170979712025241,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+145,1,815,1.3266313752565841,One Fine Day (1996),Drama|Romance
+145,2,538,1.3080401456573538,Anastasia (1997),Animation|Children's|Musical
+145,3,619,1.2548578029878714,Extreme Measures (1996),Drama|Thriller
+145,4,288,1.227426054380797,Scream (1996),Horror|Thriller
+145,5,147,1.1948999856477043,"Long Kiss Goodnight, The (1996)",Action|Thriller
+145,6,841,1.104785850585832,"Glimmer Man, The (1996)",Action|Thriller
+145,7,332,1.0403559375981397,Kiss the Girls (1997),Crime|Drama|Thriller
+145,8,535,1.0381289741066029,Addicted to Love (1997),Comedy|Romance
+145,9,306,1.0332054814873544,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",Drama|Romance
+145,10,475,1.005707501434207,Trainspotting (1996),Drama
+152,1,476,1.2238442348280416,"First Wives Club, The (1996)",Comedy
+152,2,535,1.1462612576680506,Addicted to Love (1997),Comedy|Romance
+152,3,553,1.058744468222456,"Walk in the Clouds, A (1995)",Drama|Romance
+152,4,216,1.0063950515000155,When Harry Met Sally... (1989),Comedy|Romance
+152,5,722,0.994349456336229,Nine Months (1995),Comedy
+152,6,732,0.9307677777840203,Dave (1993),Comedy|Romance
+152,7,815,0.9287945929625129,One Fine Day (1996),Drama|Romance
+152,8,202,0.9081687775267293,Groundhog Day (1993),Comedy|Romance
+152,9,756,0.9066015297892729,Father of the Bride Part II (1995),Comedy
+152,10,1119,0.8961551474696725,Some Kind of Wonderful (1987),Drama|Romance
+159,1,257,1.1070258667248378,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+159,2,252,1.0808868153423719,"Lost World: Jurassic Park, The (1997)",Action|Adventure|Sci-Fi|Thriller
+159,3,300,1.020965295010044,Air Force One (1997),Action|Thriller
+159,4,1016,0.9480179052177073,Con Air (1997),Action|Adventure|Thriller
+159,5,1047,0.9052828977522542,Multiplicity (1996),Comedy
+159,6,248,0.9022307598987098,Grosse Pointe Blank (1997),Comedy|Crime
+159,7,181,0.8975960964142687,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+159,8,934,0.8971686258358502,"Preacher's Wife, The (1996)",Drama
+159,9,409,0.8884594140369276,Jack (1996),Comedy|Drama
+159,10,50,0.8843275838697037,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+174,1,72,1.347555648488544,"Mask, The (1994)",Comedy|Crime|Fantasy
+174,2,245,1.2796725879772106,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+174,3,866,1.2061296807392945,Michael (1996),Comedy|Romance
+174,4,286,1.1480232110307254,"English Patient, The (1996)",Drama|Romance|War
+174,5,313,1.1217392590160777,Titanic (1997),Action|Drama|Romance
+174,6,120,1.0766012544689825,Striptease (1996),Comedy|Crime
+174,7,367,1.0584447482474517,Clueless (1995),Comedy
+174,8,43,0.9714355632134185,Disclosure (1994),Drama|Thriller
+174,9,732,0.9617477551348468,Dave (1993),Comedy|Romance
+174,10,238,0.952979802600599,Raising Arizona (1987),Comedy
+178,1,470,1.2419978044995628,Tombstone (1993),Western
+178,2,713,1.0956361120800966,Othello (1995),Drama
+178,3,825,1.085711570237978,"Arrival, The (1996)",Action|Sci-Fi|Thriller
+178,4,5,1.0589368713230034,Copycat (1995),Crime|Drama|Thriller
+178,5,468,1.0411133105062627,Rudy (1993),Drama
+178,6,692,1.0302251193477407,"American President, The (1995)",Comedy|Drama|Romance
+178,7,182,1.02644542956852,GoodFellas (1990),Crime|Drama
+178,8,132,1.0254164104902914,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+178,9,4,1.0179987947200104,Get Shorty (1995),Action|Comedy|Drama
+178,10,88,0.9890906663563666,Sleepless in Seattle (1993),Comedy|Romance
+186,1,148,1.097583760053308,"Ghost and the Darkness, The (1996)",Action|Adventure
+186,2,5,1.0317916166911363,Copycat (1995),Crime|Drama|Thriller
+186,3,323,0.9792521697225767,Dante's Peak (1997),Action|Thriller
+186,4,147,0.919877906081295,"Long Kiss Goodnight, The (1996)",Action|Thriller
+186,5,930,0.8845479223007324,Chain Reaction (1996),Action|Adventure|Thriller
+186,6,471,0.881685320594938,Courage Under Fire (1996),Drama|War
+186,7,218,0.8750736862800064,Cape Fear (1991),Thriller
+186,8,222,0.8584719063729285,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+186,9,328,0.8412995619536892,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+186,10,546,0.8361274446615963,Broken Arrow (1996),Action|Thriller
+193,1,66,0.9667549248803354,While You Were Sleeping (1995),Comedy|Romance
+193,2,50,0.954025518872234,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+193,3,346,0.9388347394566228,Jackie Brown (1997),Crime|Drama
+193,4,751,0.9202525528857208,Tomorrow Never Dies (1997),Action|Romance|Thriller
+193,5,97,0.9197611169060282,Dances with Wolves (1990),Adventure|Drama|Western
+193,6,88,0.9167333065394226,Sleepless in Seattle (1993),Comedy|Romance
+193,7,70,0.9112829221359896,Four Weddings and a Funeral (1994),Comedy|Romance
+193,8,181,0.8999697341995834,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+193,9,173,0.896288018344406,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+193,10,310,0.8849998801314252,"Rainmaker, The (1997)",Drama
+195,1,207,1.0973328783575478,Cyrano de Bergerac (1990),Action|Drama|Romance
+195,2,307,1.077256688643143,"Devil's Advocate, The (1997)",Crime|Horror|Mystery|Thriller
+195,3,288,1.0658025628679229,Scream (1996),Horror|Thriller
+195,4,432,1.0073471184477063,Fantasia (1940),Animation|Children's|Musical
+195,5,249,1.0066903335640718,Austin Powers: International Man of Mystery (1997),Comedy
+195,6,165,0.9971564925851268,Jean de Florette (1986),Drama
+195,7,248,0.9747068149373,Grosse Pointe Blank (1997),Comedy|Crime
+195,8,166,0.9683618514606139,Manon of the Spring (Manon des sources) (1986),Drama
+195,9,324,0.9442594472014069,Lost Highway (1997),Mystery
+195,10,340,0.9382325006730853,Boogie Nights (1997),Drama
+200,1,289,1.1541696732925626,Evita (1996),Drama|Musical
+200,2,477,1.101107069869429,Matilda (1996),Children's|Comedy
+200,3,180,1.0858429713477982,Apocalypse Now (1979),Drama|War
+200,4,97,1.0502394790926868,Dances with Wolves (1990),Adventure|Drama|Western
+200,5,526,1.04332962816797,Ben-Hur (1959),Action|Adventure|Drama
+200,6,281,1.041024665871768,"River Wild, The (1994)",Action|Thriller
+200,7,678,1.0394379264798925,Volcano (1997),Drama|Thriller
+200,8,356,1.0354734844501061,"Client, The (1994)",Drama|Mystery|Thriller
+200,9,185,1.0249473862346201,Psycho (1960),Horror|Romance|Thriller
+200,10,181,1.0186730650722464,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+207,1,48,1.4501306620479064,Hoop Dreams (1994),Documentary
+207,2,289,1.171025203721884,Evita (1996),Drama|Musical
+207,3,124,1.1418168784757965,Lone Star (1996),Drama|Mystery
+207,4,274,1.1275013051816365,Sabrina (1995),Comedy|Romance
+207,5,1051,1.1039099268255357,"Associate, The (1996)",Comedy
+207,6,66,1.0636905754165569,While You Were Sleeping (1995),Comedy|Romance
+207,7,220,1.0517056739631343,"Mirror Has Two Faces, The (1996)",Comedy|Romance
+207,8,157,1.0455072608807634,Platoon (1986),Drama|War
+207,9,285,1.0297455819409016,Secrets & Lies (1996),Drama
+207,10,732,1.0066945129222267,Dave (1993),Comedy|Romance
+210,1,451,1.029856964660803,Grease (1978),Comedy|Musical|Romance
+210,2,238,1.0221960369874816,Raising Arizona (1987),Comedy
+210,3,191,0.9990858529688583,Amadeus (1984),Drama|Mystery
+210,4,496,0.9783473492683545,It's a Wonderful Life (1946),Drama
+210,5,82,0.9559326662046108,Jurassic Park (1993),Action|Adventure|Sci-Fi
+210,6,133,0.9458800485430043,Gone with the Wind (1939),Drama|Romance|War
+210,7,196,0.9367498939781729,Dead Poets Society (1989),Drama
+210,8,629,0.9214753367324058,Victor/Victoria (1982),Comedy|Musical
+210,9,427,0.9186952651984488,To Kill a Mockingbird (1962),Drama
+210,10,143,0.9148436724289035,"Sound of Music, The (1965)",Musical
+233,1,526,1.1364412830929402,Ben-Hur (1959),Action|Adventure|Drama
+233,2,427,1.1136884847645416,To Kill a Mockingbird (1962),Drama
+233,3,582,1.084223666075896,"Piano, The (1993)",Drama|Romance
+233,4,479,1.0421316159025646,Vertigo (1958),Mystery|Thriller
+233,5,28,1.0380702960385841,Apollo 13 (1995),Action|Drama|Thriller
+233,6,185,0.9709410348373484,Psycho (1960),Horror|Romance|Thriller
+233,7,132,0.9700035709360245,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+233,8,181,0.9636538156616226,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+233,9,15,0.9430472520953972,Mr. Holland's Opus (1995),Drama
+233,10,238,0.9251636673702903,Raising Arizona (1987),Comedy
+276,1,651,1.1866557100766915,Glory (1989),Action|Drama|War
+276,2,1039,1.0886881034074651,Hamlet (1996),Drama
+276,3,264,1.0656291799920692,Mimic (1997),Sci-Fi|Thriller
+276,4,1014,1.0377500992474635,Romy and Michele's High School Reunion (1997),Comedy
+276,5,946,1.0306201916564528,"Fox and the Hound, The (1981)",Animation|Children's
+276,6,625,1.005222723738092,"Sword in the Stone, The (1963)",Animation|Children's
+276,7,412,0.9879779053259996,"Very Brady Sequel, A (1996)",Comedy
+276,8,1101,0.9844199054928139,Six Degrees of Separation (1993),Drama|Mystery
+276,9,1017,0.9802576204600327,Trees Lounge (1996),Drama
+276,10,542,0.9800779833428098,Pocahontas (1995),Animation|Children's|Musical|Romance
+279,1,338,1.522042294666754,Bean (1997),Comedy
+279,2,304,1.294220062388223,Fly Away Home (1996),Adventure|Children's
+279,3,110,1.2785894989312723,Operation Dumbo Drop (1995),Action|Adventure|Comedy|War
+279,4,410,1.2582917019680635,Kingpin (1996),Comedy
+279,5,430,1.2430852140214588,Duck Soup (1933),Comedy|War
+279,6,475,1.1728942190406526,Trainspotting (1996),Drama
+279,7,825,1.143908551055883,"Arrival, The (1996)",Action|Sci-Fi|Thriller
+279,8,381,1.1118710723094836,Muriel's Wedding (1994),Comedy|Romance
+279,9,91,1.1097125252807176,"Nightmare Before Christmas, The (1993)",Children's|Comedy|Musical
+279,10,500,1.1074283945437102,Fly Away Home (1996),Adventure|Children's
+286,1,716,1.429634963440063,Home for the Holidays (1995),Drama|Romance
+286,2,201,1.247734492432912,Evil Dead II (1987),Action|Adventure|Comedy|Horror
+286,3,242,1.1946852030411583,Kolya (1996),Comedy
+286,4,255,1.169283928096975,My Best Friend's Wedding (1997),Comedy|Romance
+286,5,238,1.1324739270723807,Raising Arizona (1987),Comedy
+286,6,109,1.1139416632724926,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+286,7,845,1.102473127876435,That Thing You Do! (1996),Comedy
+286,8,421,1.0767324914233685,William Shakespeare's Romeo and Juliet (1996),Drama|Romance
+286,9,418,1.071001496098279,Cinderella (1950),Animation|Children's|Musical
+286,10,874,1.054754818077087,Career Girls (1997),Drama
+294,1,246,0.9817161072874597,Chasing Amy (1997),Drama|Romance
+294,2,15,0.9714015708009504,Mr. Holland's Opus (1995),Drama
+294,3,268,0.9603107709412299,Chasing Amy (1997),Drama|Romance
+294,4,237,0.9600168197620484,Jerry Maguire (1996),Drama|Romance
+294,5,763,0.9221869625957346,Happy Gilmore (1996),Comedy
+294,6,271,0.9171134569663478,Starship Troopers (1997),Action|Adventure|Sci-Fi|War
+294,7,150,0.8826391571203788,Swingers (1996),Comedy|Drama
+294,8,255,0.8773982055305166,My Best Friend's Wedding (1997),Comedy|Romance
+294,9,108,0.8666234238491535,Kids in the Hall: Brain Candy (1996),Comedy
+294,10,25,0.8559950437558551,"Birdcage, The (1996)",Comedy
+299,1,705,1.3076323385905946,Singin' in the Rain (1952),Musical|Romance
+299,2,272,1.1872406781347593,Good Will Hunting (1997),Drama
+299,3,198,1.1109389046851619,Nikita (La Femme Nikita) (1990),Thriller
+299,4,751,1.105923872692217,Tomorrow Never Dies (1997),Action|Romance|Thriller
+299,5,117,1.0446453539069032,"Rock, The (1996)",Action|Adventure|Thriller
+299,6,121,1.0445584957214928,Independence Day (ID4) (1996),Action|Sci-Fi|War
+299,7,591,1.0329522061611434,Primal Fear (1996),Drama|Thriller
+299,8,497,1.0250481488394476,Bringing Up Baby (1938),Comedy
+299,9,512,1.0100554215817887,Wings of Desire (1987),Comedy|Drama|Romance
+299,10,340,0.998843568183051,Boogie Nights (1997),Drama
+319,1,270,0.7440260230604898,Gattaca (1997),Drama|Sci-Fi|Thriller
+319,2,327,0.7172831763983359,Cop Land (1997),Crime|Drama|Mystery
+319,3,268,0.6758359547983477,Chasing Amy (1997),Drama|Romance
+319,4,300,0.6476758850678621,Air Force One (1997),Action|Thriller
+319,5,326,0.6360062543703346,G.I. Jane (1997),Action|Drama|War
+319,6,328,0.6329740070081951,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+319,7,690,0.6286541608614116,Seven Years in Tibet (1997),Drama|War
+319,8,305,0.625419217453618,"Ice Storm, The (1997)",Drama
+319,9,331,0.6199556094247428,"Edge, The (1997)",Adventure|Thriller
+319,10,271,0.57584287489286,Starship Troopers (1997),Action|Adventure|Sci-Fi|War
+328,1,673,1.2746821291470045,Cape Fear (1962),Film-Noir|Thriller
+328,2,632,1.17614875767191,Sophie's Choice (1982),Drama
+328,3,660,1.0736194511419315,Fried Green Tomatoes (1991),Drama
+328,4,197,1.033869089492581,"Graduate, The (1967)",Drama|Romance
+328,5,527,1.0073302292584934,Gandhi (1982),Drama
+328,6,174,1.0037721934335053,Raiders of the Lost Ark (1981),Action|Adventure
+328,7,53,0.9889804898977943,Natural Born Killers (1994),Action|Thriller
+328,8,930,0.9728169929098374,Chain Reaction (1996),Action|Adventure|Thriller
+328,9,686,0.9721169879237979,"Perfect World, A (1993)",Action|Drama
+328,10,526,0.9388491581680276,Ben-Hur (1959),Action|Adventure|Drama
+332,1,4,1.0779275261405292,Get Shorty (1995),Action|Comedy|Drama
+332,2,55,1.0458329330629161,"Professional, The (1994)",Crime|Drama|Romance|Thriller
+332,3,977,1.031692544719605,"Substitute, The (1996)",Action
+332,4,823,1.0230260043802577,Mulholland Falls (1996),Crime|Film-Noir|Thriller
+332,5,100,0.9875840325795183,Fargo (1996),Crime|Drama|Thriller
+332,6,363,0.9681182918970116,Sudden Death (1995),Action
+332,7,930,0.9605007351651033,Chain Reaction (1996),Action|Adventure|Thriller
+332,8,161,0.9362153638029559,Top Gun (1986),Action|Romance
+332,9,281,0.9328321795317104,"River Wild, The (1994)",Action|Thriller
+332,10,176,0.9247139779884015,Aliens (1986),Action|Sci-Fi|Thriller|War
+344,1,724,1.1073988783742257,Circle of Friends (1995),Drama|Romance
+344,2,147,1.0743392666277605,"Long Kiss Goodnight, The (1996)",Action|Thriller
+344,3,116,1.0406876157297091,Cold Comfort Farm (1995),Comedy
+344,4,56,1.0365964054749055,Pulp Fiction (1994),Crime|Drama
+344,5,42,0.9821759284728284,Clerks (1994),Comedy
+344,6,209,0.9819579094093169,This Is Spinal Tap (1984),Comedy|Drama|Musical
+344,7,238,0.9527836714453253,Raising Arizona (1987),Comedy
+344,8,182,0.9511509784035304,GoodFellas (1990),Crime|Drama
+344,9,591,0.9427311926720473,Primal Fear (1996),Drama|Thriller
+344,10,194,0.9395383417008578,"Sting, The (1973)",Comedy|Crime
+378,1,140,1.1071987644000285,Homeward Bound: The Incredible Journey (1993),Adventure|Children's
+378,2,676,1.0864417240576625,"Crucible, The (1996)",Drama
+378,3,582,1.0702064550454993,"Piano, The (1993)",Drama|Romance
+378,4,581,1.0510994123537687,Kalifornia (1993),Drama|Thriller
+378,5,1041,1.0377793016984556,Forget Paris (1995),Comedy|Romance
+378,6,584,0.9927582583815849,"Secret Garden, The (1993)",Children's|Drama
+378,7,102,0.9904152629599556,"Aristocats, The (1970)",Animation|Children's
+378,8,383,0.9884494702509832,"Flintstones, The (1994)",Children's|Comedy
+378,9,934,0.9785418742414994,"Preacher's Wife, The (1996)",Drama
+378,10,301,0.9728427703534921,In & Out (1997),Comedy
+379,1,663,1.2096865947919917,Being There (1979),Comedy
+379,2,629,1.1378867040971297,Victor/Victoria (1982),Comedy|Musical
+379,3,48,1.1377057623640905,Hoop Dreams (1994),Documentary
+379,4,515,1.108660601532927,"Boot, Das (1981)",Action|Drama|War
+379,5,168,1.026527548494042,Monty Python and the Holy Grail (1974),Comedy
+379,6,692,1.02649772270709,"American President, The (1995)",Comedy|Drama|Romance
+379,7,188,1.0067296543228221,Full Metal Jacket (1987),Action|Drama|War
+379,8,219,0.9717531118304803,"Nightmare on Elm Street, A (1984)",Horror
+379,9,209,0.9535282637748319,This Is Spinal Tap (1984),Comedy|Drama|Musical
+379,10,154,0.9530817435528096,Monty Python's Life of Brian (1979),Comedy
+393,1,678,1.337124028962302,Volcano (1997),Drama|Thriller
+393,2,300,1.127015525300305,Air Force One (1997),Action|Thriller
+393,3,95,1.1254631803206974,Aladdin (1992),Animation|Children's|Comedy|Musical
+393,4,28,1.1043447134957995,Apollo 13 (1995),Action|Drama|Thriller
+393,5,193,1.0955072180172392,"Right Stuff, The (1983)",Drama
+393,6,174,1.0651756994301054,Raiders of the Lost Ark (1981),Action|Adventure
+393,7,122,1.0363545658510236,"Cable Guy, The (1996)",Comedy
+393,8,284,1.0124616657441061,Tin Cup (1996),Comedy|Romance
+393,9,568,1.0044477558829692,Speed (1994),Action|Romance|Thriller
+393,10,70,0.9933500435800742,Four Weddings and a Funeral (1994),Comedy|Romance
+397,1,64,1.0895546376648628,"Shawshank Redemption, The (1994)",Drama
+397,2,496,1.0675266973050714,It's a Wonderful Life (1946),Drama
+397,3,531,1.0005758878428064,Shine (1996),Drama|Romance
+397,4,180,0.9687695375484129,Apocalypse Now (1979),Drama|War
+397,5,328,0.9634548426321365,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+397,6,79,0.943763592870631,"Fugitive, The (1993)",Action|Thriller
+397,7,89,0.9390038165752537,Blade Runner (1982),Film-Noir|Sci-Fi
+397,8,191,0.9195893728352956,Amadeus (1984),Drama|Mystery
+397,9,98,0.9041010550546213,"Silence of the Lambs, The (1991)",Drama|Thriller
+397,10,294,0.8991298564727286,Liar Liar (1997),Comedy
+407,1,367,1.1445449071729585,Clueless (1995),Comedy
+407,2,7,1.0679281909416731,Twelve Monkeys (1995),Drama|Sci-Fi
+407,3,520,1.0414431048307293,"Great Escape, The (1963)",Adventure|War
+407,4,66,1.0187553946763142,While You Were Sleeping (1995),Comedy|Romance
+407,5,414,0.9885189971500422,My Favorite Year (1982),Comedy
+407,6,313,0.9817106038001706,Titanic (1997),Action|Drama|Romance
+407,7,631,0.979680432917821,"Crying Game, The (1992)",Action|Drama|Romance|War
+407,8,133,0.9788290069855441,Gone with the Wind (1939),Drama|Romance|War
+407,9,164,0.9711671812833048,"Abyss, The (1989)",Action|Adventure|Sci-Fi|Thriller
+407,10,286,0.9466519117589139,"English Patient, The (1996)",Drama|Romance|War
+416,1,290,1.4811574693069298,Fierce Creatures (1997),Comedy
+416,2,1023,1.4374966700096952,Fathers' Day (1997),Comedy
+416,3,293,1.3557312852157706,Donnie Brasco (1997),Crime|Drama
+416,4,340,1.351758321909715,Boogie Nights (1997),Drama
+416,5,754,1.2760831174350078,Red Corner (1997),Crime|Thriller
+416,6,147,1.2375633044731251,"Long Kiss Goodnight, The (1996)",Action|Thriller
+416,7,40,1.2124573422312488,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy
+416,8,716,1.191756545613446,Home for the Holidays (1995),Drama|Romance
+416,9,988,1.1567316191824277,"Beautician and the Beast, The (1997)",Comedy|Romance
+416,10,301,1.1401525669091461,In & Out (1997),Comedy
+425,1,665,1.2348640610474364,Alien 3 (1992),Action|Horror|Sci-Fi|Thriller
+425,2,578,1.035760553550898,Demolition Man (1993),Action|Sci-Fi
+425,3,515,1.0244322772971457,"Boot, Das (1981)",Action|Drama|War
+425,4,226,1.0000535583186192,Die Hard 2 (1990),Action|Thriller
+425,5,164,0.9957025474626156,"Abyss, The (1989)",Action|Adventure|Sci-Fi|Thriller
+425,6,327,0.9426630383492818,Cop Land (1997),Crime|Drama|Mystery
+425,7,930,0.9360989113578235,Chain Reaction (1996),Action|Adventure|Thriller
+425,8,554,0.9189298831755385,Waterworld (1995),Action|Adventure
+425,9,29,0.9163356422141022,Batman Forever (1995),Action|Adventure|Comedy|Crime
+425,10,182,0.8943733873533488,GoodFellas (1990),Crime|Drama
+428,1,328,1.0627046617416531,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+428,2,346,0.9660616158539157,Jackie Brown (1997),Crime|Drama
+428,3,333,0.956367590504991,"Game, The (1997)",Mystery|Thriller
+428,4,327,0.9552740526349756,Cop Land (1997),Crime|Drama|Mystery
+428,5,270,0.9542938019636755,Gattaca (1997),Drama|Sci-Fi|Thriller
+428,6,271,0.9348574484497152,Starship Troopers (1997),Action|Adventure|Sci-Fi|War
+428,7,258,0.9263636540293401,Contact (1997),Drama|Sci-Fi
+428,8,748,0.8778573014792191,"Saint, The (1997)",Action|Romance|Thriller
+428,9,326,0.8435355152426877,G.I. Jane (1997),Action|Drama|War
+428,10,682,0.8091149441362631,I Know What You Did Last Summer (1997),Horror|Mystery|Thriller
+450,1,40,1.3424527541942803,"To Wong Foo, Thanks for Everything! Julie Newmar (1995)",Comedy
+450,2,72,1.2278225836648877,"Mask, The (1994)",Comedy|Crime|Fantasy
+450,3,420,1.212559519296438,Alice in Wonderland (1951),Animation|Children's|Musical
+450,4,404,1.2031323239153686,Pinocchio (1940),Animation|Children's
+450,5,796,1.1795142842506159,Speechless (1994),Comedy|Romance
+450,6,515,1.1198505239586694,"Boot, Das (1981)",Action|Drama|War
+450,7,843,1.099833881568721,"Shaggy Dog, The (1959)",Children's|Comedy
+450,8,285,1.0839591755403788,Secrets & Lies (1996),Drama
+450,9,276,1.0732310786586272,Leaving Las Vegas (1995),Drama|Romance
+450,10,436,1.0717739553887262,"American Werewolf in London, An (1981)",Horror
+455,1,137,1.1702119257532404,Big Night (1996),Drama
+455,2,229,1.110604642917408,Star Trek III: The Search for Spock (1984),Action|Adventure|Sci-Fi
+455,3,294,1.0963925352856485,Liar Liar (1997),Comedy
+455,4,458,1.0727892726696848,Nixon (1995),Drama
+455,5,284,1.0654811799072634,Tin Cup (1996),Comedy|Romance
+455,6,509,1.05411062872945,My Left Foot (1989),Drama
+455,7,735,1.0397888163938345,Philadelphia (1993),Drama
+455,8,566,1.0299899243157022,Clear and Present Danger (1994),Action|Adventure|Thriller
+455,9,732,1.0169629072787827,Dave (1993),Comedy|Romance
+455,10,684,1.0138006619254236,In the Line of Fire (1993),Action|Thriller
+458,1,479,1.2338852741979878,Vertigo (1958),Mystery|Thriller
+458,2,480,1.152737089924904,North by Northwest (1959),Comedy|Thriller
+458,3,15,1.1096934287677593,Mr. Holland's Opus (1995),Drama
+458,4,657,1.0920444149665625,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+458,5,471,1.058367147773827,Courage Under Fire (1996),Drama|War
+458,6,523,1.0492408077477424,Cool Hand Luke (1967),Comedy|Drama
+458,7,482,1.0430140684473137,Some Like It Hot (1959),Comedy|Crime
+458,8,111,1.0428281802004091,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+458,9,114,0.9985210505577186,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+458,10,511,0.9923900667276828,Lawrence of Arabia (1962),Adventure|War
+463,1,713,1.2118848433180718,Othello (1995),Drama
+463,2,14,1.1226383598299048,"Postino, Il (1994)",Drama|Romance
+463,3,150,1.0638406961033895,Swingers (1996),Comedy|Drama
+463,4,9,1.0300789015390304,Dead Man Walking (1995),Drama
+463,5,847,1.018812891557471,Looking for Richard (1996),Documentary|Drama
+463,6,1,1.0009299804995124,Toy Story (1995),Animation|Children's|Comedy
+463,7,762,0.9986427109294189,Beautiful Girls (1996),Drama
+463,8,222,0.9434883718392253,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+463,9,919,0.9386244526864451,"City of Lost Children, The (1995)",Adventure|Sci-Fi
+463,10,458,0.9205903115976404,Nixon (1995),Drama
+472,1,568,1.1422970298260906,Speed (1994),Action|Romance|Thriller
+472,2,402,1.1150654206053996,Ghost (1990),Comedy|Romance|Thriller
+472,3,72,1.1042583125550811,"Mask, The (1994)",Comedy|Crime|Fantasy
+472,4,172,1.0998056718598237,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+472,5,412,1.0904203820804004,"Very Brady Sequel, A (1996)",Comedy
+472,6,820,1.0738391586904417,Space Jam (1996),Adventure|Animation|Children's|Comedy|Fantasy
+472,7,148,1.0496083832889447,"Ghost and the Darkness, The (1996)",Action|Adventure
+472,8,82,1.0425481325415118,Jurassic Park (1993),Action|Adventure|Sci-Fi
+472,9,68,1.0330587727023313,"Crow, The (1994)",Action|Romance|Thriller
+472,10,552,1.006120287839159,Species (1995),Sci-Fi
+483,1,7,0.8946235677860457,Twelve Monkeys (1995),Drama|Sci-Fi
+483,2,117,0.8170461794150303,"Rock, The (1996)",Action|Adventure|Thriller
+483,3,100,0.8090618179085982,Fargo (1996),Crime|Drama|Thriller
+483,4,588,0.8046940250368295,Beauty and the Beast (1991),Animation|Children's|Musical
+483,5,10,0.7947484503436295,Richard III (1995),Drama|War
+483,6,304,0.7909882380934063,Fly Away Home (1996),Adventure|Children's
+483,7,190,0.7805106554001688,Henry V (1989),Drama|War
+483,8,14,0.7469350232034495,"Postino, Il (1994)",Drama|Romance
+483,9,118,0.7456945281158244,Twister (1996),Action|Adventure|Thriller
+483,10,472,0.7256670884808255,Dragonheart (1996),Action|Adventure|Fantasy
+484,1,118,0.9823599958190301,Twister (1996),Action|Adventure|Thriller
+484,2,298,0.9534140686609903,Face/Off (1997),Action|Sci-Fi|Thriller
+484,3,250,0.8643362700916775,"Fifth Element, The (1997)",Action|Sci-Fi
+484,4,275,0.8349543202578888,Sense and Sensibility (1995),Drama|Romance
+484,5,100,0.80956757765337,Fargo (1996),Crime|Drama|Thriller
+484,6,748,0.8002849687886897,"Saint, The (1997)",Action|Romance|Thriller
+484,7,127,0.7465716329555474,"Godfather, The (1972)",Action|Crime|Drama
+484,8,289,0.7402321541826999,Evita (1996),Drama|Musical
+484,9,282,0.739048054490686,"Time to Kill, A (1996)",Drama
+484,10,546,0.7134602574736387,Broken Arrow (1996),Action|Thriller
+500,1,949,1.4113837793068607,How to Make an American Quilt (1995),Drama|Romance
+500,2,322,1.3698668493016395,Murder at 1600 (1997),Mystery|Thriller
+500,3,14,1.3079655063367661,"Postino, Il (1994)",Drama|Romance
+500,4,86,1.2232198588126766,"Remains of the Day, The (1993)",Drama
+500,5,106,1.0948086562264892,Diabolique (1996),Drama|Thriller
+500,6,650,1.0818002174950645,"Seventh Seal, The (Sjunde inseglet, Det) (1957)",Drama
+500,7,676,1.0807087875367325,"Crucible, The (1996)",Drama
+500,8,298,1.0686018599023375,Face/Off (1997),Action|Sci-Fi|Thriller
+500,9,212,1.055242190934328,"Unbearable Lightness of Being, The (1988)",Drama
+500,10,1074,1.0536915576930328,Reality Bites (1994),Comedy|Drama
+503,1,515,1.2445561573299453,"Boot, Das (1981)",Action|Drama|War
+503,2,510,1.0949315339630135,"Magnificent Seven, The (1954)",Action|Drama|Western
+503,3,56,1.06098860745398,Pulp Fiction (1994),Crime|Drama
+503,4,203,1.0371192534562583,Unforgiven (1992),Western
+503,5,508,1.027406051408317,"People vs. Larry Flynt, The (1996)",Drama
+503,6,238,1.0038533827008833,Raising Arizona (1987),Comedy
+503,7,345,0.975470323532486,Deconstructing Harry (1997),Comedy|Drama
+503,8,276,0.9745387528153115,Leaving Las Vegas (1995),Drama|Romance
+503,9,4,0.949279215877241,Get Shorty (1995),Action|Comedy|Drama
+503,10,202,0.9449299762335112,Groundhog Day (1993),Comedy|Romance
+504,1,313,1.434832465909823,Titanic (1997),Action|Drama|Romance
+504,2,871,1.3978793828748561,Vegas Vacation (1997),Comedy
+504,3,692,1.2500563162210245,"American President, The (1995)",Comedy|Drama|Romance
+504,4,378,1.245518773200507,Miracle on 34th Street (1994),Drama
+504,5,521,1.151295355057663,"Deer Hunter, The (1978)",Drama|War
+504,6,220,1.1154822115705825,"Mirror Has Two Faces, The (1996)",Comedy|Romance
+504,7,674,1.108404806140339,Cat People (1982),Horror
+504,8,712,1.0997578973695696,Tin Men (1987),Comedy|Drama
+504,9,193,1.0778090331673678,"Right Stuff, The (1983)",Drama
+504,10,528,1.069584383503844,"Killing Fields, The (1984)",Drama|War
+505,1,322,0.8602351164417847,Murder at 1600 (1997),Mystery|Thriller
+505,2,323,0.8442937643315878,Dante's Peak (1997),Action|Thriller
+505,3,678,0.7428611893818392,Volcano (1997),Drama|Thriller
+505,4,288,0.677718114335417,Scream (1996),Horror|Thriller
+505,5,289,0.6032611756403039,Evita (1996),Drama|Musical
+505,6,326,0.593061279617358,G.I. Jane (1997),Action|Drama|War
+505,7,879,0.558275717998884,"Peacemaker, The (1997)",Action|Thriller|War
+505,8,333,0.5359306618153054,"Game, The (1997)",Mystery|Thriller
+505,9,286,0.5283780190947023,"English Patient, The (1996)",Drama|Romance|War
+505,10,687,0.5177815983403304,McHale's Navy (1997),Comedy|War
+506,1,659,1.308236489588754,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+506,2,87,1.2478709925430715,Searching for Bobby Fischer (1993),Drama
+506,3,259,1.2464733974165403,George of the Jungle (1997),Children's|Comedy
+506,4,568,1.208115789508097,Speed (1994),Action|Romance|Thriller
+506,5,322,1.191874204377556,Murder at 1600 (1997),Mystery|Thriller
+506,6,313,1.1365448970136849,Titanic (1997),Action|Drama|Romance
+506,7,480,1.116624782173028,North by Northwest (1959),Comedy|Thriller
+506,8,136,1.0963915080242115,Mr. Smith Goes to Washington (1939),Drama
+506,9,526,1.0862360699658864,Ben-Hur (1959),Action|Adventure|Drama
+506,10,588,1.0425213208356252,Beauty and the Beast (1991),Animation|Children's|Musical
+514,1,213,1.178912021337076,"Room with a View, A (1986)",Drama|Romance
+514,2,193,1.1771357491978045,"Right Stuff, The (1983)",Drama
+514,3,8,1.1098415522272034,Babe (1995),Children's|Comedy|Drama
+514,4,238,1.0836850880599647,Raising Arizona (1987),Comedy
+514,5,382,1.0757547176935445,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama
+514,6,286,0.9755287235643895,"English Patient, The (1996)",Drama|Romance|War
+514,7,56,0.9707993777810697,Pulp Fiction (1994),Crime|Drama
+514,8,270,0.9569354712647509,Gattaca (1997),Drama|Sci-Fi|Thriller
+514,9,205,0.9488799809741149,Patton (1970),Drama|War
+514,10,300,0.9461372492653921,Air Force One (1997),Action|Thriller
+517,1,880,0.10020076310643139,Soul Food (1997),Drama
+517,2,877,0.08756123777286876,Excess Baggage (1997),Adventure|Romance
+517,3,266,0.08595811073974155,Kull the Conqueror (1997),Action|Adventure
+517,4,259,0.08547203963998916,George of the Jungle (1997),Children's|Comedy
+517,5,682,0.08355586473417234,I Know What You Did Last Summer (1997),Horror|Mystery|Thriller
+517,6,261,0.07671072806979397,Air Bud (1997),Children's|Comedy
+517,7,136,0.07628232434155183,Mr. Smith Goes to Washington (1939),Drama
+517,8,680,0.07171457529048521,Kull the Conqueror (1997),Action|Adventure
+517,9,876,0.07018109942001544,Money Talks (1997),Action|Comedy
+517,10,887,0.06951439690034628,Eve's Bayou (1997),Drama
+530,1,318,0.8789671895869217,Schindler's List (1993),Drama|War
+530,2,173,0.8538025085502529,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+530,3,69,0.8432477327498238,Forrest Gump (1994),Comedy|Romance|War
+530,4,197,0.8269263912302556,"Graduate, The (1967)",Drama|Romance
+530,5,216,0.8131562570494122,When Harry Met Sally... (1989),Comedy|Romance
+530,6,185,0.8041674562066619,Psycho (1960),Horror|Romance|Thriller
+530,7,143,0.7849967105267428,"Sound of Music, The (1965)",Musical
+530,8,153,0.7719196832835832,"Fish Called Wanda, A (1988)",Comedy
+530,9,210,0.770174482717298,Indiana Jones and the Last Crusade (1989),Action|Adventure
+530,10,423,0.7691888685906145,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+532,1,340,1.4750294021640875,Boogie Nights (1997),Drama
+532,2,485,1.3069680278980278,My Fair Lady (1964),Musical|Romance
+532,3,293,1.2074953505299033,Donnie Brasco (1997),Crime|Drama
+532,4,122,1.1924786472205042,"Cable Guy, The (1996)",Comedy
+532,5,1142,1.1761999372103094,When We Were Kings (1996),Documentary
+532,6,416,1.0625304219810485,Old Yeller (1957),Children's|Drama
+532,7,673,1.04287196725772,Cape Fear (1962),Film-Noir|Thriller
+532,8,185,1.036032775634141,Psycho (1960),Horror|Romance|Thriller
+532,9,443,1.032941908957716,"Birds, The (1963)",Horror
+532,10,739,1.0218158498668126,Pretty Woman (1990),Comedy|Romance
+533,1,304,1.4821252207315925,Fly Away Home (1996),Adventure|Children's
+533,2,523,1.2337686037069875,Cool Hand Luke (1967),Comedy|Drama
+533,3,79,1.0967592015848795,"Fugitive, The (1993)",Action|Thriller
+533,4,410,1.0736610940282085,Kingpin (1996),Comedy
+533,5,864,1.0595405388214085,My Fellow Americans (1996),Comedy
+533,6,678,1.0286675745850729,Volcano (1997),Drama|Thriller
+533,7,732,1.0281474570492954,Dave (1993),Comedy|Romance
+533,8,199,1.0206467110720863,"Bridge on the River Kwai, The (1957)",Drama|War
+533,9,473,1.007319678206282,James and the Giant Peach (1996),Animation|Children's|Musical
+533,10,235,1.0008099335697689,Mars Attacks! (1996),Action|Comedy|Sci-Fi|War
+577,1,227,1.140079992627792,Star Trek VI: The Undiscovered Country (1991),Action|Adventure|Sci-Fi
+577,2,692,1.059540814319192,"American President, The (1995)",Comedy|Drama|Romance
+577,3,755,1.0409365794825303,Jumanji (1995),Action|Adventure|Children's|Fantasy|Sci-Fi
+577,4,195,1.0201149128914722,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+577,5,934,0.9735827961549587,"Preacher's Wife, The (1996)",Drama
+577,6,699,0.9694949251273706,Little Women (1994),Drama
+577,7,411,0.9644660262844214,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+577,8,451,0.959275247090355,Grease (1978),Comedy|Musical|Romance
+577,9,91,0.9545870759864871,"Nightmare Before Christmas, The (1993)",Children's|Comedy|Musical
+577,10,222,0.9404525306199238,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+621,1,403,1.1895634844760827,Batman (1989),Action|Adventure|Crime|Drama
+621,2,288,1.183791033377632,Scream (1996),Horror|Thriller
+621,3,358,1.1189502428820144,Spawn (1997),Action|Adventure|Sci-Fi|Thriller
+621,4,90,1.1005204271432931,So I Married an Axe Murderer (1993),Comedy|Romance|Thriller
+621,5,294,1.092781256685471,Liar Liar (1997),Comedy
+621,6,158,1.0891711156916086,Weekend at Bernie's (1989),Comedy
+621,7,254,1.0061468878030286,Batman & Robin (1997),Action|Adventure|Crime
+621,8,99,0.9981785496340175,Snow White and the Seven Dwarfs (1937),Animation|Children's|Musical
+621,9,29,0.9973091816145097,Batman Forever (1995),Action|Adventure|Comedy|Crime
+621,10,210,0.9817308920810157,Indiana Jones and the Last Crusade (1989),Action|Adventure
+624,1,151,1.0243374023424838,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+624,2,118,1.0227400107162374,Twister (1996),Action|Adventure|Thriller
+624,3,596,0.9731786811956225,"Hunchback of Notre Dame, The (1996)",Animation|Children's|Musical
+624,4,269,0.9661279980217128,"Full Monty, The (1997)",Comedy
+624,5,109,0.9637343976047184,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+624,6,274,0.9495229372999981,Sabrina (1995),Comedy|Romance
+624,7,129,0.947750082940478,Bound (1996),Crime|Drama|Romance|Thriller
+624,8,1011,0.9453592224009431,2 Days in the Valley (1996),Crime
+624,9,9,0.9399126548257134,Dead Man Walking (1995),Drama
+624,10,926,0.929134738929486,Down Periscope (1996),Comedy
+634,1,151,1.1268135602214764,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+634,2,926,1.0151157032413225,Down Periscope (1996),Comedy
+634,3,619,0.9752027309337088,Extreme Measures (1996),Drama|Thriller
+634,4,304,0.9735140133084313,Fly Away Home (1996),Adventure|Children's
+634,5,291,0.9242188877463837,Absolute Power (1997),Mystery|Thriller
+634,6,123,0.905948199155379,"Frighteners, The (1996)",Comedy|Horror
+634,7,820,0.882496236919103,Space Jam (1996),Adventure|Animation|Children's|Comedy|Fantasy
+634,8,321,0.8695172228982873,Mother (1996),Comedy
+634,9,148,0.8562408026818589,"Ghost and the Darkness, The (1996)",Action|Adventure
+634,10,847,0.8038722792540769,Looking for Richard (1996),Documentary|Drama
+640,1,188,1.1774905532690423,Full Metal Jacket (1987),Action|Drama|War
+640,2,124,1.1391314684977947,Lone Star (1996),Drama|Mystery
+640,3,403,1.0800488989733483,Batman (1989),Action|Adventure|Crime|Drama
+640,4,82,1.0633542938480312,Jurassic Park (1993),Action|Adventure|Sci-Fi
+640,5,137,1.0288475272715363,Big Night (1996),Drama
+640,6,651,0.972450131188282,Glory (1989),Action|Drama|War
+640,7,272,0.9702337907903543,Good Will Hunting (1997),Drama
+640,8,89,0.9585411917979354,Blade Runner (1982),Film-Noir|Sci-Fi
+640,9,154,0.9240424542418971,Monty Python's Life of Brian (1979),Comedy
+640,10,28,0.919571345576335,Apollo 13 (1995),Action|Drama|Thriller
+642,1,1035,1.351293236391419,Cool Runnings (1993),Comedy
+642,2,781,1.1153011738675107,French Kiss (1995),Comedy|Romance
+642,3,421,1.0804488674992943,William Shakespeare's Romeo and Juliet (1996),Drama|Romance
+642,4,763,1.0750967778033755,Happy Gilmore (1996),Comedy
+642,5,941,1.04503492191522,With Honors (1994),Comedy|Drama
+642,6,500,1.0436046900393645,Fly Away Home (1996),Adventure|Children's
+642,7,845,0.9966970917695535,That Thing You Do! (1996),Comedy
+642,8,372,0.9786145684354027,Jeffrey (1995),Comedy
+642,9,176,0.9776562143715588,Aliens (1986),Action|Sci-Fi|Thriller|War
+642,10,79,0.9599454897823086,"Fugitive, The (1993)",Action|Thriller
+653,1,515,1.203189421087457,"Boot, Das (1981)",Action|Drama|War
+653,2,636,1.1805963277885603,Escape from New York (1981),Action|Adventure|Sci-Fi|Thriller
+653,3,257,1.1694425005363283,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+653,4,31,1.1400184956742458,Crimson Tide (1995),Drama|Thriller|War
+653,5,284,1.1322528440198558,Tin Cup (1996),Comedy|Romance
+653,6,230,1.0950304551750312,Star Trek IV: The Voyage Home (1986),Action|Adventure|Sci-Fi
+653,7,435,1.078781555418714,Butch Cassidy and the Sundance Kid (1969),Action|Comedy|Western
+653,8,655,1.0454921009059226,Stand by Me (1986),Adventure|Comedy|Drama
+653,9,9,1.0222188904634184,Dead Man Walking (1995),Drama
+653,10,25,1.0209314905745164,"Birdcage, The (1996)",Comedy
+654,1,421,1.0853585985653234,William Shakespeare's Romeo and Juliet (1996),Drama|Romance
+654,2,471,1.0833916438641067,Courage Under Fire (1996),Drama|War
+654,3,1047,1.0099223556817722,Multiplicity (1996),Comedy
+654,4,7,0.992827156679237,Twelve Monkeys (1995),Drama|Sci-Fi
+654,5,125,0.9775999820680161,Phenomenon (1996),Drama|Romance
+654,6,202,0.9347915648020022,Groundhog Day (1993),Comedy|Romance
+654,7,1039,0.9335114234146518,Hamlet (1996),Drama
+654,8,298,0.9240203407271267,Face/Off (1997),Action|Sci-Fi|Thriller
+654,9,64,0.9152739794264053,"Shawshank Redemption, The (1994)",Drama
+654,10,713,0.9113374254511405,Othello (1995),Drama
+655,1,778,1.4543931341191954,Don Juan DeMarco (1995),Comedy|Drama|Romance
+655,2,664,1.3392836574536746,"Paris, Texas (1984)",Drama
+655,3,846,1.3372665297514796,To Gillian on Her 37th Birthday (1996),Drama|Romance
+655,4,83,1.3215008670716544,Much Ado About Nothing (1993),Comedy|Romance
+655,5,287,1.2683445855508775,Marvin's Room (1996),Drama
+655,6,88,1.231074099201188,Sleepless in Seattle (1993),Comedy|Romance
+655,7,739,1.2230245363835246,Pretty Woman (1990),Comedy|Romance
+655,8,1129,1.212538843683501,Chungking Express (1994),Drama|Mystery|Romance
+655,9,663,1.2103409074290994,Being There (1979),Comedy
+655,10,106,1.1951411950272783,Diabolique (1996),Drama|Thriller
+661,1,98,1.177908469179953,"Silence of the Lambs, The (1991)",Drama|Thriller
+661,2,257,1.1067941563715746,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+661,3,529,1.0967088565334144,My Life as a Dog (Mitt liv som hund) (1985),Drama
+661,4,588,1.085758014882522,Beauty and the Beast (1991),Animation|Children's|Musical
+661,5,143,1.0732120586976854,"Sound of Music, The (1965)",Musical
+661,6,193,1.0363551338177954,"Right Stuff, The (1983)",Drama
+661,7,56,1.035856300679126,Pulp Fiction (1994),Crime|Drama
+661,8,479,1.0196951515094614,Vertigo (1958),Mystery|Thriller
+661,9,15,0.9970999286374753,Mr. Holland's Opus (1995),Drama
+661,10,663,0.9523326637136931,Being There (1979),Comedy
+668,1,294,0.9896462579530598,Liar Liar (1997),Comedy
+668,2,748,0.9233101333797921,"Saint, The (1997)",Action|Romance|Thriller
+668,3,313,0.8868592826222965,Titanic (1997),Action|Drama|Romance
+668,4,268,0.8279958235829985,Chasing Amy (1997),Drama|Romance
+668,5,327,0.8130507914426857,Cop Land (1997),Crime|Drama|Mystery
+668,6,181,0.7983359197186366,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+668,7,301,0.785710997194594,In & Out (1997),Comedy
+668,8,242,0.7691049975404799,Kolya (1996),Comedy
+668,9,751,0.7557803208852211,Tomorrow Never Dies (1997),Action|Romance|Thriller
+668,10,245,0.7398435566623827,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+677,1,748,0.7074614181511201,"Saint, The (1997)",Action|Romance|Thriller
+677,2,328,0.6985186708549941,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+677,3,300,0.656916090102184,Air Force One (1997),Action|Thriller
+677,4,258,0.6426565982867154,Contact (1997),Drama|Sci-Fi
+677,5,678,0.638022533417173,Volcano (1997),Drama|Thriller
+677,6,325,0.5620362365550646,Crash (1996),Drama|Thriller
+677,7,326,0.5398588693690809,G.I. Jane (1997),Action|Drama|War
+677,8,313,0.538156425475895,Titanic (1997),Action|Drama|Romance
+677,9,286,0.537376070737043,"English Patient, The (1996)",Drama|Romance|War
+677,10,333,0.5316731990868093,"Game, The (1997)",Mystery|Thriller
+699,1,919,1.2229238030196932,"City of Lost Children, The (1995)",Adventure|Sci-Fi
+699,2,847,1.1241754561305684,Looking for Richard (1996),Documentary|Drama
+699,3,333,1.0550194400124302,"Game, The (1997)",Mystery|Thriller
+699,4,696,1.0204452150611827,City Hall (1996),Drama|Thriller
+699,5,408,1.0036148580862894,"Close Shave, A (1995)",Animation|Comedy|Thriller
+699,6,713,0.9636483616595317,Othello (1995),Drama
+699,7,245,0.9558527205557896,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+699,8,993,0.9470188591805098,Hercules (1997),Adventure|Animation|Children's|Comedy|Musical
+699,9,242,0.9447896740100197,Kolya (1996),Comedy
+699,10,107,0.9396059806209637,Moll Flanders (1996),Drama
+707,1,514,1.3497296809442294,Annie Hall (1977),Comedy|Romance
+707,2,521,1.2667679618301966,"Deer Hunter, The (1978)",Drama|War
+707,3,509,1.1785374310908705,My Left Foot (1989),Drama
+707,4,306,1.1535584501169365,"Mrs. Brown (Her Majesty, Mrs. Brown) (1997)",Drama|Romance
+707,5,277,1.1464798386279402,Restoration (1995),Drama
+707,6,47,1.1458486867953666,Ed Wood (1994),Comedy|Drama
+707,7,213,1.1107651602921553,"Room with a View, A (1986)",Drama|Romance
+707,8,523,1.1022378461199982,Cool Hand Luke (1967),Comedy|Drama
+707,9,519,1.0292098414574915,"Treasure of the Sierra Madre, The (1948)",Adventure
+707,10,152,1.0256732175216974,Sleeper (1973),Comedy|Sci-Fi
+708,1,476,0.9834422438943298,"First Wives Club, The (1996)",Comedy
+708,2,237,0.9423538069894503,Jerry Maguire (1996),Drama|Romance
+708,3,151,0.9316244362847765,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+708,4,815,0.9210617611340737,One Fine Day (1996),Drama|Romance
+708,5,845,0.8875553200552038,That Thing You Do! (1996),Comedy
+708,6,864,0.8471618873474409,My Fellow Americans (1996),Comedy
+708,7,866,0.8450456840078215,Michael (1996),Comedy|Romance
+708,8,742,0.829509420806579,Ransom (1996),Drama|Thriller
+708,9,275,0.8274877516714362,Sense and Sensibility (1995),Drama|Romance
+708,10,222,0.80908368595572,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+711,1,287,1.343101120974802,Marvin's Room (1996),Drama
+711,2,1039,1.1610222881577168,Hamlet (1996),Drama
+711,3,301,1.1535976453534762,In & Out (1997),Comedy
+711,4,270,1.1346840894824533,Gattaca (1997),Drama|Sci-Fi|Thriller
+711,5,382,1.0903158974095648,"Adventures of Priscilla, Queen of the Desert, The (1994)",Comedy|Drama
+711,6,28,1.0323609159530183,Apollo 13 (1995),Action|Drama|Thriller
+711,7,174,1.026368297506144,Raiders of the Lost Ark (1981),Action|Adventure
+711,8,131,1.0177918055672028,Breakfast at Tiffany's (1961),Drama|Romance
+711,9,57,1.0047404037922671,Priest (1994),Drama
+711,10,210,0.992800677786374,Indiana Jones and the Last Crusade (1989),Action|Adventure
+738,1,82,1.1309836130483504,Jurassic Park (1993),Action|Adventure|Sci-Fi
+738,2,144,1.0666704426538265,Die Hard (1988),Action|Thriller
+738,3,96,1.0089097478045457,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+738,4,89,0.995939355922548,Blade Runner (1982),Film-Noir|Sci-Fi
+738,5,176,0.992944799092164,Aliens (1986),Action|Sci-Fi|Thriller|War
+738,6,210,0.9844884644398572,Indiana Jones and the Last Crusade (1989),Action|Adventure
+738,7,588,0.9708229632841464,Beauty and the Beast (1991),Animation|Children's|Musical
+738,8,135,0.9598168746526914,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+738,9,8,0.9411715290895066,Babe (1995),Children's|Comedy|Drama
+738,10,69,0.9328933848894277,Forrest Gump (1994),Comedy|Romance|War
+751,1,421,1.033910420171403,William Shakespeare's Romeo and Juliet (1996),Drama|Romance
+751,2,313,1.0296171598175026,Titanic (1997),Action|Drama|Romance
+751,3,258,1.0278266498815438,Contact (1997),Drama|Sci-Fi
+751,4,298,0.9725800762202274,Face/Off (1997),Action|Sci-Fi|Thriller
+751,5,408,0.9525311844311659,"Close Shave, A (1995)",Animation|Comedy|Thriller
+751,6,195,0.933696388226511,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+751,7,189,0.929528571182018,"Grand Day Out, A (1992)",Animation|Comedy
+751,8,69,0.9239632662359807,Forrest Gump (1994),Comedy|Romance|War
+751,9,283,0.921856984956361,Emma (1996),Drama|Romance
+751,10,203,0.9140881101328443,Unforgiven (1992),Western
+810,1,322,1.0172091052556673,Murder at 1600 (1997),Mystery|Thriller
+810,2,245,0.9126589983678808,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+810,3,748,0.8101000634121442,"Saint, The (1997)",Action|Romance|Thriller
+810,4,286,0.7513314278689512,"English Patient, The (1996)",Drama|Romance|War
+810,5,258,0.7258099413253098,Contact (1997),Drama|Sci-Fi
+810,6,319,0.707560323693635,Everyone Says I Love You (1996),Comedy|Musical|Romance
+810,7,259,0.7072359688635189,George of the Jungle (1997),Children's|Comedy
+810,8,300,0.7028494460949541,Air Force One (1997),Action|Thriller
+810,9,358,0.6494442163357204,Spawn (1997),Action|Adventure|Sci-Fi|Thriller
+810,10,988,0.6221653887226583,"Beautician and the Beast, The (1997)",Comedy|Romance
+825,1,295,1.1574199563434853,Breakdown (1997),Action|Thriller
+825,2,123,1.0796997021630965,"Frighteners, The (1996)",Comedy|Horror
+825,3,975,0.9391773852450067,Fear (1996),Thriller
+825,4,934,0.9250024281790998,"Preacher's Wife, The (1996)",Drama
+825,5,1,0.9230750533870979,Toy Story (1995),Animation|Children's|Comedy
+825,6,829,0.9205946342973712,Fled (1996),Action|Adventure
+825,7,304,0.9181458035744974,Fly Away Home (1996),Adventure|Children's
+825,8,475,0.911508132856652,Trainspotting (1996),Drama
+825,9,24,0.8877467143163713,Rumble in the Bronx (1995),Action|Adventure|Crime
+825,10,129,0.8815013585509704,Bound (1996),Crime|Drama|Romance|Thriller
+829,1,45,1.0335431130112287,Eat Drink Man Woman (1994),Comedy|Drama
+829,2,475,0.9905681863131188,Trainspotting (1996),Drama
+829,3,165,0.8300020179148667,Jean de Florette (1986),Drama
+829,4,275,0.8293121531703402,Sense and Sensibility (1995),Drama|Romance
+829,5,137,0.8281171177505514,Big Night (1996),Drama
+829,6,531,0.7342594074024029,Shine (1996),Drama|Romance
+829,7,9,0.7284836474580032,Dead Man Walking (1995),Drama
+829,8,24,0.7180637936707079,Rumble in the Bronx (1995),Action|Adventure|Crime
+829,9,166,0.7055086886225637,Manon of the Spring (Manon des sources) (1986),Drama
+829,10,269,0.6992759247813556,"Full Monty, The (1997)",Comedy
+838,1,117,1.067904746299917,"Rock, The (1996)",Action|Adventure|Thriller
+838,2,423,1.0068931726928865,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+838,3,751,0.9866529210136722,Tomorrow Never Dies (1997),Action|Romance|Thriller
+838,4,147,0.9615081280129865,"Long Kiss Goodnight, The (1996)",Action|Thriller
+838,5,151,0.9321766093566138,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+838,6,250,0.930864072476211,"Fifth Element, The (1997)",Action|Sci-Fi
+838,7,79,0.9135141756036089,"Fugitive, The (1993)",Action|Thriller
+838,8,64,0.9022973876657903,"Shawshank Redemption, The (1994)",Drama
+838,9,144,0.8899192774839937,Die Hard (1988),Action|Thriller
+838,10,195,0.8870929754234571,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+851,1,1016,1.2472359354052607,Con Air (1997),Action|Adventure|Thriller
+851,2,1012,1.186586621979544,Private Parts (1997),Comedy|Drama
+851,3,333,1.0747991360669449,"Game, The (1997)",Mystery|Thriller
+851,4,249,1.0251616079997525,Austin Powers: International Man of Mystery (1997),Comedy
+851,5,1244,1.0174772224271214,Metro (1997),Action
+851,6,282,0.9985784470727352,"Time to Kill, A (1996)",Drama
+851,7,678,0.9862551031148609,Volcano (1997),Drama|Thriller
+851,8,327,0.9782365889615515,Cop Land (1997),Crime|Drama|Mystery
+851,9,58,0.9761618068087683,Quiz Show (1994),Drama
+851,10,591,0.9719671922358776,Primal Fear (1996),Drama|Thriller
+864,1,1028,1.1143747660958327,Grumpier Old Men (1995),Comedy|Romance
+864,2,148,1.0798965175493036,"Ghost and the Darkness, The (1996)",Action|Adventure
+864,3,582,1.0771262874623027,"Piano, The (1993)",Drama|Romance
+864,4,241,1.06533664837451,"Last of the Mohicans, The (1992)",Action|Romance|War
+864,5,756,1.0614816927716242,Father of the Bride Part II (1995),Comedy
+864,6,154,1.053011276500823,Monty Python's Life of Brian (1979),Comedy
+864,7,385,1.0098901815874712,True Lies (1994),Action|Adventure|Comedy|Romance
+864,8,175,1.0094634357426349,Brazil (1985),Sci-Fi
+864,9,147,1.0073498337023257,"Long Kiss Goodnight, The (1996)",Action|Thriller
+864,10,233,0.9921192957353466,Under Siege (1992),Action
+870,1,218,1.2051768396816283,Cape Fear (1991),Thriller
+870,2,294,1.2038086734968765,Liar Liar (1997),Comedy
+870,3,26,1.1429820519468348,"Brothers McMullen, The (1995)",Comedy
+870,4,708,1.134451171761572,"Sex, Lies, and Videotape (1989)",Drama
+870,5,200,1.1314855383322817,"Shining, The (1980)",Horror
+870,6,175,1.103879488755624,Brazil (1985),Sci-Fi
+870,7,518,1.0668414275267497,Miller's Crossing (1990),Drama
+870,8,478,1.062992987539376,"Philadelphia Story, The (1940)",Comedy|Romance
+870,9,410,1.0276194623653416,Kingpin (1996),Comedy
+870,10,33,1.0276121508703424,Desperado (1995),Action|Romance|Thriller
+880,1,806,1.2793372232524252,Menace II Society (1993),Action|Crime|Drama
+880,2,941,1.2437710806054638,With Honors (1994),Comedy|Drama
+880,3,1228,1.1570457799237204,Under Siege 2: Dark Territory (1995),Action
+880,4,540,1.1034150616774645,Money Train (1995),Action
+880,5,399,1.0975777257702042,"Three Musketeers, The (1993)",Action|Adventure|Comedy
+880,6,946,1.0973250804457715,"Fox and the Hound, The (1981)",Animation|Children's
+880,7,562,1.0688967057017222,"Quick and the Dead, The (1995)",Action|Adventure|Western
+880,8,576,1.0591460793051561,Cliffhanger (1993),Action|Adventure|Crime
+880,9,73,1.0534561741198845,Maverick (1994),Action|Comedy|Western
+880,10,932,1.0367994440858141,First Kid (1996),Children's|Comedy
+891,1,125,0.7836026104888061,Phenomenon (1996),Drama|Romance
+891,2,15,0.777277319111443,Mr. Holland's Opus (1995),Drama
+891,3,106,0.7768174677372313,Diabolique (1996),Drama|Thriller
+891,4,471,0.7208397349758586,Courage Under Fire (1996),Drama|War
+891,5,924,0.7133054553807305,White Squall (1996),Adventure|Drama
+891,6,411,0.7054393425710899,"Nutty Professor, The (1996)",Comedy|Fantasy|Romance|Sci-Fi
+891,7,225,0.6939104940324221,101 Dalmatians (1996),Children's|Comedy
+891,8,815,0.6893276608704153,One Fine Day (1996),Drama|Romance
+891,9,245,0.6802576496624634,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+891,10,111,0.6608458351974082,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+894,1,1039,1.3938998990935447,Hamlet (1996),Drama
+894,2,301,1.2778841672484125,In & Out (1997),Comedy
+894,3,207,1.1961655332121273,Cyrano de Bergerac (1990),Action|Drama|Romance
+894,4,815,1.1815086842348814,One Fine Day (1996),Drama|Romance
+894,5,251,1.1743241465890986,Shall We Dance? (1996),Comedy
+894,6,127,1.0747729088877809,"Godfather, The (1972)",Action|Crime|Drama
+894,7,1014,1.0560449078665615,Romy and Michele's High School Reunion (1997),Comedy
+894,8,597,1.0249052639420475,Eraser (1996),Action|Thriller
+894,9,980,0.9882978509074589,Mother Night (1996),Drama
+894,10,118,0.9673964061170928,Twister (1996),Action|Adventure|Thriller
+913,1,258,1.1181657139001417,Contact (1997),Drama|Sci-Fi
+913,2,286,1.076034936557087,"English Patient, The (1996)",Drama|Romance|War
+913,3,652,1.0506892840436328,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama
+913,4,150,1.0376765989948429,Swingers (1996),Comedy|Drama
+913,5,496,0.9771741010400046,It's a Wonderful Life (1946),Drama
+913,6,55,0.9685625242395712,"Professional, The (1994)",Crime|Drama|Romance|Thriller
+913,7,182,0.9496589539368118,GoodFellas (1990),Crime|Drama
+913,8,137,0.9300737743413745,Big Night (1996),Drama
+913,9,134,0.9131247774474215,Citizen Kane (1941),Drama
+913,10,48,0.8994884721436351,Hoop Dreams (1994),Documentary
+924,1,98,1.013981673741521,"Silence of the Lambs, The (1991)",Drama|Thriller
+924,2,69,0.9883184078070355,Forrest Gump (1994),Comedy|Romance|War
+924,3,204,0.9766382382370555,Back to the Future (1985),Comedy|Sci-Fi
+924,4,423,0.9748653052232156,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+924,5,275,0.9674187801970268,Sense and Sensibility (1995),Drama|Romance
+924,6,79,0.9673059030674447,"Fugitive, The (1993)",Action|Thriller
+924,7,210,0.9601027046499857,Indiana Jones and the Last Crusade (1989),Action|Adventure
+924,8,289,0.9529029192927336,Evita (1996),Drama|Musical
+924,9,168,0.8889049610151379,Monty Python and the Holy Grail (1974),Comedy
+924,10,22,0.8837558646572529,Braveheart (1995),Action|Drama|War
+940,1,514,1.0599120825397783,Annie Hall (1977),Comedy|Romance
+940,2,154,0.9820994607431377,Monty Python's Life of Brian (1979),Comedy
+940,3,186,0.9736927172085844,"Blues Brothers, The (1980)",Action|Comedy|Musical
+940,4,663,0.9726910201992737,Being There (1979),Comedy
+940,5,175,0.953150698673123,Brazil (1985),Sci-Fi
+940,6,79,0.9517361089150542,"Fugitive, The (1993)",Action|Thriller
+940,7,288,0.9465150823214652,Scream (1996),Horror|Thriller
+940,8,428,0.9393823153601654,Harold and Maude (1971),Comedy
+940,9,182,0.93910594111661,GoodFellas (1990),Crime|Drama
+940,10,210,0.9311533615004294,Indiana Jones and the Last Crusade (1989),Action|Adventure

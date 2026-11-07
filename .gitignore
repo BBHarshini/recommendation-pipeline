@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Generated data (recreated by running the pipeline)
+data/raw/*
+data/validated/*
+data/processed/*
+data/features/*
+!data/**/.gitkeep
+
+# Model files and tracking stores
+models/*.pkl
+mlflow.db
+mlruns/
+mlartifacts/
+logs/
+
+# Keep in git: data/errors/ (error datasets), reports/ (validation report,
+# feature catalog, results, figures) and models/registry.json

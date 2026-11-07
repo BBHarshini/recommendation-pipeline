@@ -1,0 +1,143 @@
+{
+  "validated_at": "2026-11-07T05:47:10.887919+00:00",
+  "tables": {
+    "users": {
+      "input_rows": 948,
+      "valid_rows": 943,
+      "rejected_rows": 5,
+      "checks": [
+        {
+          "check": "missing_value",
+          "severity": "error",
+          "description": "user_id, age, gender or occupation is empty",
+          "failed_rows": 1
+        },
+        {
+          "check": "invalid_type",
+          "severity": "error",
+          "description": "user_id or age is not an integer",
+          "failed_rows": 1
+        },
+        {
+          "check": "duplicate_id",
+          "severity": "error",
+          "description": "user_id appears more than once (first kept)",
+          "failed_rows": 1
+        },
+        {
+          "check": "age_out_of_range",
+          "severity": "error",
+          "description": "age outside 1-100",
+          "failed_rows": 1
+        },
+        {
+          "check": "invalid_gender",
+          "severity": "error",
+          "description": "gender not in ['M', 'F']",
+          "failed_rows": 1
+        }
+      ],
+      "injected_test_records": {
+        "injected": 5,
+        "caught": 5,
+        "dataset_rows_rejected": 0
+      }
+    },
+    "items": {
+      "input_rows": 1684,
+      "valid_rows": 1682,
+      "rejected_rows": 2,
+      "checks": [
+        {
+          "check": "missing_value",
+          "severity": "error",
+          "description": "item_id or title is empty",
+          "failed_rows": 1
+        },
+        {
+          "check": "invalid_type",
+          "severity": "error",
+          "description": "item_id is not an integer",
+          "failed_rows": 0
+        },
+        {
+          "check": "duplicate_id",
+          "severity": "error",
+          "description": "item_id appears more than once (first kept)",
+          "failed_rows": 1
+        },
+        {
+          "check": "missing_release_date",
+          "severity": "warning",
+          "description": "release date is empty (kept, imputed later)",
+          "failed_rows": 1
+        },
+        {
+          "check": "missing_genre",
+          "severity": "warning",
+          "description": "no genre assigned (kept, labelled 'unknown')",
+          "failed_rows": 0
+        }
+      ],
+      "injected_test_records": {
+        "injected": 2,
+        "caught": 2,
+        "dataset_rows_rejected": 0
+      }
+    },
+    "interactions": {
+      "input_rows": 100012,
+      "valid_rows": 100000,
+      "rejected_rows": 12,
+      "checks": [
+        {
+          "check": "missing_value",
+          "severity": "error",
+          "description": "user_id, item_id, rating or timestamp is empty",
+          "failed_rows": 1
+        },
+        {
+          "check": "invalid_type",
+          "severity": "error",
+          "description": "user_id or item_id is not an integer, or rating is not numeric",
+          "failed_rows": 2
+        },
+        {
+          "check": "duplicate_record",
+          "severity": "error",
+          "description": "exact duplicate of an earlier interaction (first kept)",
+          "failed_rows": 1
+        },
+        {
+          "check": "invalid_rating",
+          "severity": "error",
+          "description": "rating not a whole number in 1-5",
+          "failed_rows": 3
+        },
+        {
+          "check": "invalid_timestamp",
+          "severity": "error",
+          "description": "timestamp unparseable, before 1995-01-01 or in the future",
+          "failed_rows": 3
+        },
+        {
+          "check": "unknown_user",
+          "severity": "error",
+          "description": "user_id not found in the valid users table",
+          "failed_rows": 1
+        },
+        {
+          "check": "unknown_item",
+          "severity": "error",
+          "description": "item_id not found in the valid items table",
+          "failed_rows": 1
+        }
+      ],
+      "injected_test_records": {
+        "injected": 12,
+        "caught": 12,
+        "dataset_rows_rejected": 0
+      }
+    }
+  }
+}

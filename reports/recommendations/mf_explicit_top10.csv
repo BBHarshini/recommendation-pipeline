@@ -1,0 +1,951 @@
+user_id,rank,item_id,score,title,genres
+1,1,408,5.000349390214682,"Close Shave, A (1995)",Animation|Comedy|Thriller
+1,2,315,4.991600315029912,Apt Pupil (1998),Drama|Thriller
+1,3,647,4.822605401928842,Ran (1985),Drama|War
+1,4,511,4.809772435358587,Lawrence of Arabia (1962),Adventure|War
+1,5,316,4.800980172799688,As Good As It Gets (1997),Comedy|Drama
+1,6,428,4.7451952673065,Harold and Maude (1971),Comedy
+1,7,302,4.73314061619045,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+1,8,1142,4.725006907679858,When We Were Kings (1996),Documentary
+1,9,523,4.686541247084566,Cool Hand Luke (1967),Comedy|Drama
+1,10,1039,4.658156158387173,Hamlet (1996),Drama
+3,1,127,3.5243271433878576,"Godfather, The (1972)",Action|Crime|Drama
+3,2,1524,3.4405607069044235,Kaspar Hauser (1993),Drama
+3,3,963,3.433295814514251,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+3,4,483,3.432253939681947,Casablanca (1942),Drama|Romance|War
+3,5,1131,3.3898035210508928,Safe (1995),Thriller
+3,6,694,3.3842001944993774,Persuasion (1995),Romance
+3,7,98,3.379021389694057,"Silence of the Lambs, The (1991)",Drama|Thriller
+3,8,657,3.371262911450702,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+3,9,136,3.3641712253084903,Mr. Smith Goes to Washington (1939),Drama
+3,10,496,3.360245940452018,It's a Wonderful Life (1946),Drama
+13,1,113,4.748903518848147,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+13,2,169,4.732566624132345,"Wrong Trousers, The (1993)",Animation|Comedy
+13,3,1063,4.702224026093525,"Little Princess, A (1995)",Children's|Drama
+13,4,408,4.696466710532423,"Close Shave, A (1995)",Animation|Comedy|Thriller
+13,5,513,4.6788021840469405,"Third Man, The (1949)",Mystery|Thriller
+13,6,246,4.673226124341518,Chasing Amy (1997),Drama|Romance
+13,7,489,4.594030547385864,Notorious (1946),Film-Noir|Romance|Thriller
+13,8,1067,4.566957758879731,Bottle Rocket (1996),Comedy
+13,9,479,4.5410081609532025,Vertigo (1958),Mystery|Thriller
+13,10,192,4.532847833737223,Raging Bull (1980),Drama
+14,1,480,5.083857298731559,North by Northwest (1959),Comedy|Thriller
+14,2,169,5.079252522125429,"Wrong Trousers, The (1993)",Animation|Comedy
+14,3,318,5.0042817675485765,Schindler's List (1993),Drama|War
+14,4,302,4.9816539175547945,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+14,5,64,4.9736307498036325,"Shawshank Redemption, The (1994)",Drama
+14,6,178,4.909061996642836,12 Angry Men (1957),Drama
+14,7,12,4.902210326355184,"Usual Suspects, The (1995)",Crime|Thriller
+14,8,114,4.876427841787302,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+14,9,427,4.8558899129703414,To Kill a Mockingbird (1962),Drama
+14,10,603,4.855882366296756,Rear Window (1954),Mystery|Thriller
+43,1,515,4.8655148206330985,"Boot, Das (1981)",Action|Drama|War
+43,2,1160,4.73238024203178,Love! Valour! Compassion! (1997),Drama|Romance
+43,3,963,4.661965840984045,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+43,4,22,4.624774115543473,Braveheart (1995),Action|Drama|War
+43,5,125,4.623121826887391,Phenomenon (1996),Drama|Romance
+43,6,520,4.620608958154731,"Great Escape, The (1963)",Adventure|War
+43,7,83,4.618483757028105,Much Ado About Nothing (1993),Comedy|Romance
+43,8,746,4.613061597862799,Real Genius (1985),Comedy
+43,9,166,4.603412052063684,Manon of the Spring (Manon des sources) (1986),Drama
+43,10,1251,4.5238894584466065,A Chef in Love (1996),Comedy
+54,1,313,5.140956642298192,Titanic (1997),Action|Drama|Romance
+54,2,272,4.756976256358342,Good Will Hunting (1997),Drama
+54,3,169,4.753391176273416,"Wrong Trousers, The (1993)",Animation|Comedy
+54,4,199,4.70961697712373,"Bridge on the River Kwai, The (1957)",Drama|War
+54,5,512,4.689526792834685,Wings of Desire (1987),Comedy|Drama|Romance
+54,6,45,4.6665634245523915,Eat Drink Man Woman (1994),Comedy|Drama
+54,7,483,4.659326235974272,Casablanca (1942),Drama|Romance|War
+54,8,56,4.651499675557586,Pulp Fiction (1994),Crime|Drama
+54,9,48,4.628530910436032,Hoop Dreams (1994),Documentary
+54,10,64,4.616157344205356,"Shawshank Redemption, The (1994)",Drama
+58,1,168,4.96222498721148,Monty Python and the Holy Grail (1974),Comedy
+58,2,508,4.956696763960092,"People vs. Larry Flynt, The (1996)",Drama
+58,3,179,4.880804314234301,"Clockwork Orange, A (1971)",Sci-Fi
+58,4,515,4.84618831319688,"Boot, Das (1981)",Action|Drama|War
+58,5,276,4.841512746491393,Leaving Las Vegas (1995),Drama|Romance
+58,6,613,4.834603273605482,My Man Godfrey (1936),Comedy
+58,7,512,4.8064061642995926,Wings of Desire (1987),Comedy|Drama|Romance
+58,8,469,4.735649027933202,Short Cuts (1993),Drama
+58,9,1524,4.717318183784382,Kaspar Hauser (1993),Drama
+58,10,258,4.711983384940719,Contact (1997),Drama|Sci-Fi
+60,1,408,5.077261459932019,"Close Shave, A (1995)",Animation|Comedy|Thriller
+60,2,169,5.05274026326475,"Wrong Trousers, The (1993)",Animation|Comedy
+60,3,114,4.8510650026430016,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+60,4,189,4.76499816031549,"Grand Day Out, A (1992)",Animation|Comedy
+60,5,113,4.744074515708406,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+60,6,512,4.735440028604256,Wings of Desire (1987),Comedy|Drama|Romance
+60,7,1524,4.718546864188118,Kaspar Hauser (1993),Drama
+60,8,100,4.676863315760667,Fargo (1996),Crime|Drama|Thriller
+60,9,923,4.648584050465416,Raise the Red Lantern (1991),Drama
+60,10,1367,4.624626551162168,Faust (1994),Animation
+64,1,318,4.536296810593717,Schindler's List (1993),Drama|War
+64,2,98,4.464341027217609,"Silence of the Lambs, The (1991)",Drama|Thriller
+64,3,483,4.446837820064404,Casablanca (1942),Drama|Romance|War
+64,4,50,4.442330407776221,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+64,5,173,4.409256196935331,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+64,6,613,4.360715200365605,My Man Godfrey (1936),Comedy
+64,7,191,4.354839780696415,Amadeus (1984),Drama|Mystery
+64,8,56,4.3164105464430165,Pulp Fiction (1994),Crime|Drama
+64,9,64,4.31174706791306,"Shawshank Redemption, The (1994)",Drama
+64,10,205,4.305768082017785,Patton (1970),Drama|War
+83,1,392,4.742823418845971,"Man Without a Face, The (1993)",Drama
+83,2,313,4.606310804475467,Titanic (1997),Action|Drama|Romance
+83,3,429,4.584433654020522,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+83,4,939,4.569476509643384,Murder in the First (1995),Drama|Thriller
+83,5,1063,4.5454194941979935,"Little Princess, A (1995)",Children's|Drama
+83,6,659,4.428912343532762,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+83,7,98,4.427732044072842,"Silence of the Lambs, The (1991)",Drama|Thriller
+83,8,258,4.422706096764789,Contact (1997),Drama|Sci-Fi
+83,9,651,4.421770421554626,Glory (1989),Action|Drama|War
+83,10,269,4.414412581695594,"Full Monty, The (1997)",Comedy
+85,1,408,4.555538734972239,"Close Shave, A (1995)",Animation|Comedy|Thriller
+85,2,169,4.32174252928394,"Wrong Trousers, The (1993)",Animation|Comedy
+85,3,493,4.299384002298467,"Thin Man, The (1934)",Mystery
+85,4,48,4.260541405553576,Hoop Dreams (1994),Documentary
+85,5,285,4.257597880778401,Secrets & Lies (1996),Drama
+85,6,1367,4.228361526637511,Faust (1994),Animation
+85,7,178,4.22586475579472,12 Angry Men (1957),Drama
+85,8,603,4.175489913419903,Rear Window (1954),Mystery|Thriller
+85,9,651,4.169795364232834,Glory (1989),Action|Drama|War
+85,10,694,4.1623338187167915,Persuasion (1995),Romance
+92,1,114,4.685939683213466,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+92,2,483,4.586988336088032,Casablanca (1942),Drama|Romance|War
+92,3,603,4.581752399998051,Rear Window (1954),Mystery|Thriller
+92,4,272,4.5545372737108405,Good Will Hunting (1997),Drama
+92,5,127,4.542386134421469,"Godfather, The (1972)",Action|Crime|Drama
+92,6,187,4.505908573427181,"Godfather: Part II, The (1974)",Action|Crime|Drama
+92,7,513,4.490561319702236,"Third Man, The (1949)",Mystery|Thriller
+92,8,357,4.447221681686773,One Flew Over the Cuckoo's Nest (1975),Drama
+92,9,480,4.445644668439675,North by Northwest (1959),Comedy|Thriller
+92,10,611,4.4140153746245625,Laura (1944),Crime|Film-Noir|Mystery
+94,1,192,5.069267837995429,Raging Bull (1980),Drama
+94,2,512,4.980990193944215,Wings of Desire (1987),Comedy|Drama|Romance
+94,3,603,4.977564442805065,Rear Window (1954),Mystery|Thriller
+94,4,285,4.961769359527601,Secrets & Lies (1996),Drama
+94,5,408,4.930749452113355,"Close Shave, A (1995)",Animation|Comedy|Thriller
+94,6,488,4.9238669757095614,Sunset Blvd. (1950),Film-Noir
+94,7,514,4.917745992333816,Annie Hall (1977),Comedy|Romance
+94,8,197,4.895481221715222,"Graduate, The (1967)",Drama|Romance
+94,9,1367,4.88523108716292,Faust (1994),Animation
+94,10,169,4.88289300489321,"Wrong Trousers, The (1993)",Animation|Comedy
+102,1,169,3.812881372191377,"Wrong Trousers, The (1993)",Animation|Comedy
+102,2,408,3.7938898009081523,"Close Shave, A (1995)",Animation|Comedy|Thriller
+102,3,113,3.7663282139057253,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+102,4,483,3.7240359411189834,Casablanca (1942),Drama|Romance|War
+102,5,657,3.6639132119667988,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+102,6,694,3.6254147225593467,Persuasion (1995),Romance
+102,7,1524,3.620575126958595,Kaspar Hauser (1993),Drama
+102,8,484,3.61717387532761,"Maltese Falcon, The (1941)",Film-Noir|Mystery
+102,9,114,3.5900014517933223,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+102,10,963,3.5651695564541215,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+112,1,705,4.897402868201702,Singin' in the Rain (1952),Musical|Romance
+112,2,318,4.881206568363997,Schindler's List (1993),Drama|War
+112,3,480,4.813462513458275,North by Northwest (1959),Comedy|Thriller
+112,4,483,4.806614005708396,Casablanca (1942),Drama|Romance|War
+112,5,197,4.8023796297869135,"Graduate, The (1967)",Drama|Romance
+112,6,657,4.784217132397563,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+112,7,48,4.736650428108621,Hoop Dreams (1994),Documentary
+112,8,69,4.723967755273008,Forrest Gump (1994),Comedy|Romance|War
+112,9,215,4.679644724174314,Field of Dreams (1989),Drama
+112,10,603,4.655044293210849,Rear Window (1954),Mystery|Thriller
+116,1,182,4.308242740943855,GoodFellas (1990),Crime|Drama
+116,2,135,4.2742368104077055,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+116,3,89,4.259205493080096,Blade Runner (1982),Film-Noir|Sci-Fi
+116,4,183,4.248311724884614,Alien (1979),Action|Horror|Sci-Fi|Thriller
+116,5,234,4.164747815966619,Jaws (1975),Action|Horror
+116,6,114,4.120474360249698,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+116,7,613,4.108661907057072,My Man Godfrey (1936),Comedy
+116,8,96,4.081344550204898,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+116,9,12,4.060486391234652,"Usual Suspects, The (1995)",Crime|Thriller
+116,10,200,4.052805413094981,"Shining, The (1980)",Horror
+119,1,169,5.2026829490127104,"Wrong Trousers, The (1993)",Animation|Comedy
+119,2,114,5.111342248677544,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+119,3,512,5.099795500197316,Wings of Desire (1987),Comedy|Drama|Romance
+119,4,48,5.080139293456824,Hoop Dreams (1994),Documentary
+119,5,483,5.057756209184846,Casablanca (1942),Drama|Romance|War
+119,6,1524,5.008039188199371,Kaspar Hauser (1993),Drama
+119,7,524,4.980776878923054,"Great Dictator, The (1940)",Comedy
+119,8,408,4.9454506820210336,"Close Shave, A (1995)",Animation|Comedy|Thriller
+119,9,1367,4.943080085707471,Faust (1994),Animation
+119,10,746,4.9399473926132,Real Genius (1985),Comedy
+125,1,50,5.323450290416578,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+125,2,22,5.0671558453158285,Braveheart (1995),Action|Drama|War
+125,3,228,4.821282972411337,Star Trek: The Wrath of Khan (1982),Action|Adventure|Sci-Fi
+125,4,385,4.8047367158993355,True Lies (1994),Action|Adventure|Comedy|Romance
+125,5,419,4.7605928323376405,Mary Poppins (1964),Children's|Comedy|Musical
+125,6,313,4.6864850314702,Titanic (1997),Action|Drama|Romance
+125,7,132,4.682514066719742,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+125,8,195,4.644672516758384,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+125,9,96,4.590330023220414,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+125,10,230,4.576387158878138,Star Trek IV: The Voyage Home (1986),Action|Adventure|Sci-Fi
+145,1,199,5.18569942419815,"Bridge on the River Kwai, The (1957)",Drama|War
+145,2,177,5.054233987944617,"Good, The Bad and The Ugly, The (1966)",Action|Western
+145,3,180,4.953727754761396,Apocalypse Now (1979),Drama|War
+145,4,651,4.938448296671131,Glory (1989),Action|Drama|War
+145,5,144,4.89721528823071,Die Hard (1988),Action|Thriller
+145,6,272,4.8625654160027025,Good Will Hunting (1997),Drama
+145,7,641,4.807448487219559,Paths of Glory (1957),Drama|War
+145,8,1367,4.758005601937509,Faust (1994),Animation
+145,9,513,4.7376910309537585,"Third Man, The (1949)",Mystery|Thriller
+145,10,480,4.737655427711728,North by Northwest (1959),Comedy|Thriller
+152,1,318,5.27160980482844,Schindler's List (1993),Drama|War
+152,2,174,5.268196431929671,Raiders of the Lost Ark (1981),Action|Adventure
+152,3,64,5.206041979531653,"Shawshank Redemption, The (1994)",Drama
+152,4,427,5.1951571279125055,To Kill a Mockingbird (1962),Drama
+152,5,313,5.194537537667311,Titanic (1997),Action|Drama|Romance
+152,6,604,5.18962722791679,It Happened One Night (1934),Comedy
+152,7,496,5.144665026573092,It's a Wonderful Life (1946),Drama
+152,8,169,5.126924924334247,"Wrong Trousers, The (1993)",Animation|Comedy
+152,9,404,5.126613329198028,Pinocchio (1940),Animation|Children's
+152,10,408,5.109233878581682,"Close Shave, A (1995)",Animation|Comedy|Thriller
+159,1,313,5.217529572500721,Titanic (1997),Action|Drama|Romance
+159,2,69,5.1837673251070155,Forrest Gump (1994),Comedy|Romance|War
+159,3,135,5.13123326562558,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+159,4,357,5.12562482560124,One Flew Over the Cuckoo's Nest (1975),Drama
+159,5,89,5.085927329421871,Blade Runner (1982),Film-Noir|Sci-Fi
+159,6,300,5.066887596569934,Air Force One (1997),Action|Thriller
+159,7,429,5.0544565151053025,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+159,8,50,5.038019359605,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+159,9,318,5.015479237038607,Schindler's List (1993),Drama|War
+159,10,150,4.984512043894699,Swingers (1996),Comedy|Drama
+174,1,258,5.901111802936612,Contact (1997),Drama|Sci-Fi
+174,2,694,5.485138971238926,Persuasion (1995),Romance
+174,3,64,5.395321050261922,"Shawshank Redemption, The (1994)",Drama
+174,4,516,5.363314540138071,Local Hero (1983),Comedy
+174,5,22,5.2938089120753355,Braveheart (1995),Action|Drama|War
+174,6,57,5.287743829787543,Priest (1994),Drama
+174,7,318,5.188347068580468,Schindler's List (1993),Drama|War
+174,8,25,5.184692746742934,"Birdcage, The (1996)",Comedy
+174,9,211,5.134591391548235,M*A*S*H (1970),Comedy|War
+174,10,735,5.1190415792734685,Philadelphia (1993),Drama
+178,1,496,4.850479243129677,It's a Wonderful Life (1946),Drama
+178,2,527,4.729649329076321,Gandhi (1982),Drama
+178,3,166,4.6979130989186615,Manon of the Spring (Manon des sources) (1986),Drama
+178,4,186,4.658840794012009,"Blues Brothers, The (1980)",Action|Comedy|Musical
+178,5,378,4.651446447912671,Miracle on 34th Street (1994),Drama
+178,6,429,4.635735712009877,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+178,7,251,4.6307542020852015,Shall We Dance? (1996),Comedy
+178,8,272,4.595637989529355,Good Will Hunting (1997),Drama
+178,9,208,4.576311572941654,Young Frankenstein (1974),Comedy|Horror
+178,10,659,4.516993885620242,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+186,1,659,4.839736760925353,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+186,2,199,4.8210936789592305,"Bridge on the River Kwai, The (1957)",Drama|War
+186,3,313,4.75590763824933,Titanic (1997),Action|Drama|Romance
+186,4,286,4.6542115589361535,"English Patient, The (1996)",Drama|Romance|War
+186,5,166,4.603644267023311,Manon of the Spring (Manon des sources) (1986),Drama
+186,6,144,4.512133509833527,Die Hard (1988),Action|Thriller
+186,7,520,4.509008187906227,"Great Escape, The (1963)",Adventure|War
+186,8,98,4.484114824916369,"Silence of the Lambs, The (1991)",Drama|Thriller
+186,9,936,4.461338983029809,Brassed Off (1996),Comedy|Drama|Romance
+186,10,114,4.446521881406059,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+193,1,607,4.722196979332344,Rebecca (1940),Romance|Thriller
+193,2,659,4.680774451938612,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+193,3,57,4.639426984518639,Priest (1994),Drama
+193,4,493,4.619703130108415,"Thin Man, The (1934)",Mystery
+193,5,408,4.56113871954531,"Close Shave, A (1995)",Animation|Comedy|Thriller
+193,6,427,4.54835715534485,To Kill a Mockingbird (1962),Drama
+193,7,496,4.543410218057492,It's a Wonderful Life (1946),Drama
+193,8,285,4.516935519135214,Secrets & Lies (1996),Drama
+193,9,136,4.473172672824949,Mr. Smith Goes to Washington (1939),Drama
+193,10,694,4.4691502707100605,Persuasion (1995),Romance
+195,1,50,4.998136392055813,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+195,2,318,4.872580053434261,Schindler's List (1993),Drama|War
+195,3,172,4.799153930489579,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+195,4,174,4.709104441249572,Raiders of the Lost Ark (1981),Action|Adventure
+195,5,483,4.701258979510875,Casablanca (1942),Drama|Romance|War
+195,6,185,4.6806206011215234,Psycho (1960),Horror|Romance|Thriller
+195,7,64,4.651272432099836,"Shawshank Redemption, The (1994)",Drama
+195,8,98,4.64086055962315,"Silence of the Lambs, The (1991)",Drama|Thriller
+195,9,480,4.542768368228738,North by Northwest (1959),Comedy|Thriller
+195,10,180,4.5397456358317685,Apocalypse Now (1979),Drama|War
+200,1,64,5.126950589476506,"Shawshank Redemption, The (1994)",Drama
+200,2,480,4.955897313788627,North by Northwest (1959),Comedy|Thriller
+200,3,1169,4.943981552692809,Fresh (1994),Drama
+200,4,1524,4.936680951717263,Kaspar Hauser (1993),Drama
+200,5,403,4.908572758348113,Batman (1989),Action|Adventure|Crime|Drama
+200,6,963,4.889479576517707,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+200,7,275,4.860001619154953,Sense and Sensibility (1995),Drama|Romance
+200,8,12,4.84394096023642,"Usual Suspects, The (1995)",Crime|Thriller
+200,9,114,4.838600985878442,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+200,10,251,4.8258047335860885,Shall We Dance? (1996),Comedy
+207,1,963,4.215832778942967,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+207,2,496,4.115414022942446,It's a Wonderful Life (1946),Drama
+207,3,651,4.044711866481261,Glory (1989),Action|Drama|War
+207,4,136,4.009151137696906,Mr. Smith Goes to Washington (1939),Drama
+207,5,272,3.993081146315353,Good Will Hunting (1997),Drama
+207,6,498,3.9796381108737955,"African Queen, The (1951)",Action|Adventure|Romance|War
+207,7,213,3.9664979374446596,"Room with a View, A (1986)",Drama|Romance
+207,8,169,3.963517257654951,"Wrong Trousers, The (1993)",Animation|Comedy
+207,9,1131,3.955485135803901,Safe (1995),Thriller
+207,10,166,3.9373437685940322,Manon of the Spring (Manon des sources) (1986),Drama
+210,1,408,4.995870226041902,"Close Shave, A (1995)",Animation|Comedy|Thriller
+210,2,963,4.8817367129565055,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+210,3,169,4.859286568190723,"Wrong Trousers, The (1993)",Animation|Comedy
+210,4,64,4.840152652589246,"Shawshank Redemption, The (1994)",Drama
+210,5,427,4.8116595675381495,To Kill a Mockingbird (1962),Drama
+210,6,511,4.780493975340503,Lawrence of Arabia (1962),Adventure|War
+210,7,318,4.743150617130045,Schindler's List (1993),Drama|War
+210,8,480,4.734091057500071,North by Northwest (1959),Comedy|Thriller
+210,9,178,4.732446486163127,12 Angry Men (1957),Drama
+210,10,521,4.7200948247780055,"Deer Hunter, The (1978)",Drama|War
+233,1,213,5.177158882835731,"Room with a View, A (1986)",Drama|Romance
+233,2,963,5.036204991999414,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+233,3,496,4.938300048789679,It's a Wonderful Life (1946),Drama
+233,4,1131,4.9262529176089345,Safe (1995),Thriller
+233,5,134,4.884427947705207,Citizen Kane (1941),Drama
+233,6,169,4.867622180015816,"Wrong Trousers, The (1993)",Animation|Comedy
+233,7,211,4.853018493774325,M*A*S*H (1970),Comedy|War
+233,8,694,4.851405666655257,Persuasion (1995),Romance
+233,9,136,4.8432619222486455,Mr. Smith Goes to Washington (1939),Drama
+233,10,896,4.831403119930616,"Sweet Hereafter, The (1997)",Drama
+276,1,114,4.899755635703261,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+276,2,480,4.875482888506587,North by Northwest (1959),Comedy|Thriller
+276,3,191,4.832886452482899,Amadeus (1984),Drama|Mystery
+276,4,178,4.768190125955991,12 Angry Men (1957),Drama
+276,5,1142,4.742553437327853,When We Were Kings (1996),Documentary
+276,6,134,4.742357358036404,Citizen Kane (1941),Drama
+276,7,483,4.739779270956334,Casablanca (1942),Drama|Romance|War
+276,8,494,4.738609923416259,His Girl Friday (1940),Comedy
+276,9,641,4.715384874051554,Paths of Glory (1957),Drama|War
+276,10,515,4.701124485270539,"Boot, Das (1981)",Action|Drama|War
+279,1,896,5.085460537350244,"Sweet Hereafter, The (1997)",Drama
+279,2,512,4.922569016270699,Wings of Desire (1987),Comedy|Drama|Romance
+279,3,285,4.809119217233873,Secrets & Lies (1996),Drama
+279,4,1524,4.756167382171989,Kaspar Hauser (1993),Drama
+279,5,48,4.753013102564684,Hoop Dreams (1994),Documentary
+279,6,693,4.741296822414403,Casino (1995),Drama
+279,7,1097,4.690857958150507,"Hate (Haine, La) (1995)",Drama
+279,8,182,4.60712930720403,GoodFellas (1990),Crime|Drama
+279,9,652,4.571322047506832,Rosencrantz and Guildenstern Are Dead (1990),Comedy|Drama
+279,10,14,4.569506618328119,"Postino, Il (1994)",Drama|Romance
+286,1,12,5.199343019620083,"Usual Suspects, The (1995)",Crime|Thriller
+286,2,613,5.158137007112447,My Man Godfrey (1936),Comedy
+286,3,478,5.003030045659799,"Philadelphia Story, The (1940)",Comedy|Romance
+286,4,378,4.969859957014352,Miracle on 34th Street (1994),Drama
+286,5,657,4.964866862792129,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+286,6,694,4.924641422563167,Persuasion (1995),Romance
+286,7,1160,4.890604993330637,Love! Valour! Compassion! (1997),Drama|Romance
+286,8,735,4.8714001851831075,Philadelphia (1993),Drama
+286,9,1524,4.864437241344049,Kaspar Hauser (1993),Drama
+286,10,837,4.854082494651824,Meet John Doe (1941),Drama
+294,1,313,4.877309960544138,Titanic (1997),Action|Drama|Romance
+294,2,515,4.840441894799349,"Boot, Das (1981)",Action|Drama|War
+294,3,318,4.804084011048983,Schindler's List (1993),Drama|War
+294,4,172,4.773487379028321,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+294,5,64,4.766970466216469,"Shawshank Redemption, The (1994)",Drama
+294,6,173,4.761048902094899,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+294,7,205,4.757883075557537,Patton (1970),Drama|War
+294,8,483,4.756473724058141,Casablanca (1942),Drama|Romance|War
+294,9,613,4.70496925502509,My Man Godfrey (1936),Comedy
+294,10,853,4.691458835471458,Braindead (1992),Comedy|Horror
+299,1,9,4.416289109032226,Dead Man Walking (1995),Drama
+299,2,613,4.293861844597915,My Man Godfrey (1936),Comedy
+299,3,165,4.272718525042289,Jean de Florette (1986),Drama
+299,4,963,4.231123285821839,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+299,5,173,4.220435290196671,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+299,6,317,4.21034331122089,In the Name of the Father (1993),Drama
+299,7,919,4.206534927777875,"City of Lost Children, The (1995)",Adventure|Sci-Fi
+299,8,113,4.183996510910558,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+299,9,463,4.159031490520273,"Secret of Roan Inish, The (1994)",Adventure
+299,10,493,4.155254218033395,"Thin Man, The (1934)",Mystery
+319,1,408,4.666169686421578,"Close Shave, A (1995)",Animation|Comedy|Thriller
+319,2,169,4.657387396313132,"Wrong Trousers, The (1993)",Animation|Comedy
+319,3,483,4.608287042007846,Casablanca (1942),Drama|Romance|War
+319,4,512,4.591891342558971,Wings of Desire (1987),Comedy|Drama|Romance
+319,5,114,4.573776473684544,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+319,6,318,4.523971529774449,Schindler's List (1993),Drama|War
+319,7,923,4.512466846058166,Raise the Red Lantern (1991),Drama
+319,8,1367,4.504927384076308,Faust (1994),Animation
+319,9,603,4.478876333971624,Rear Window (1954),Mystery|Thriller
+319,10,1524,4.463834825277635,Kaspar Hauser (1993),Drama
+328,1,313,4.635697322903989,Titanic (1997),Action|Drama|Romance
+328,2,268,4.577896598604173,Chasing Amy (1997),Drama|Romance
+328,3,190,4.550778016929596,Henry V (1989),Drama|War
+328,4,48,4.520166023868698,Hoop Dreams (1994),Documentary
+328,5,191,4.506322363017274,Amadeus (1984),Drama|Mystery
+328,6,87,4.448878974057134,Searching for Bobby Fischer (1993),Drama
+328,7,251,4.438925359550628,Shall We Dance? (1996),Comedy
+328,8,170,4.4313069299749595,Cinema Paradiso (1988),Comedy|Drama|Romance
+328,9,1137,4.289305806857487,Beautiful Thing (1996),Drama|Romance
+328,10,660,4.267164951687317,Fried Green Tomatoes (1991),Drama
+332,1,114,5.317020934740387,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+332,2,176,5.114362573881713,Aliens (1986),Action|Sci-Fi|Thriller|War
+332,3,272,5.054816130906198,Good Will Hunting (1997),Drama
+332,4,603,5.000255018336931,Rear Window (1954),Mystery|Thriller
+332,5,520,4.939606556671,"Great Escape, The (1963)",Adventure|War
+332,6,67,4.936722907943859,Ace Ventura: Pet Detective (1994),Comedy
+332,7,480,4.922956447343319,North by Northwest (1959),Comedy|Thriller
+332,8,1367,4.889366429356151,Faust (1994),Animation
+332,9,403,4.885923271576141,Batman (1989),Action|Adventure|Crime|Drama
+332,10,169,4.885105511485042,"Wrong Trousers, The (1993)",Animation|Comedy
+344,1,178,4.696217623832492,12 Angry Men (1957),Drama
+344,2,474,4.637476284086078,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War
+344,3,114,4.632109487123223,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+344,4,1142,4.604553743374046,When We Were Kings (1996),Documentary
+344,5,657,4.539158562870383,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+344,6,209,4.53407598944536,This Is Spinal Tap (1984),Comedy|Drama|Musical
+344,7,113,4.508347814862116,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+344,8,427,4.500011009231908,To Kill a Mockingbird (1962),Drama
+344,9,483,4.499931161938352,Casablanca (1942),Drama|Romance|War
+344,10,493,4.473463149520143,"Thin Man, The (1934)",Mystery
+378,1,483,4.558803368430951,Casablanca (1942),Drama|Romance|War
+378,2,169,4.470128352657855,"Wrong Trousers, The (1993)",Animation|Comedy
+378,3,408,4.407389680962084,"Close Shave, A (1995)",Animation|Comedy|Thriller
+378,4,313,4.391508677819422,Titanic (1997),Action|Drama|Romance
+378,5,114,4.385535587847779,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+378,6,272,4.369150711172366,Good Will Hunting (1997),Drama
+378,7,657,4.359553623831468,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+378,8,963,4.322520356959264,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+378,9,659,4.2968646761126905,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+378,10,269,4.290497666954983,"Full Monty, The (1997)",Comedy
+379,1,318,4.9474388253754835,Schindler's List (1993),Drama|War
+379,2,657,4.896655695242833,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+379,3,408,4.8959452878207665,"Close Shave, A (1995)",Animation|Comedy|Thriller
+379,4,483,4.876838799816088,Casablanca (1942),Drama|Romance|War
+379,5,493,4.852555397872077,"Thin Man, The (1934)",Mystery
+379,6,482,4.827059724959218,Some Like It Hot (1959),Comedy|Crime
+379,7,484,4.822364964358653,"Maltese Falcon, The (1941)",Film-Noir|Mystery
+379,8,1142,4.813710952953487,When We Were Kings (1996),Documentary
+379,9,132,4.808788990495525,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+379,10,114,4.798614403713231,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+393,1,1019,4.36194666031937,"Die xue shuang xiong (Killer, The) (1989)",Action|Thriller
+393,2,966,4.264424827897419,"Affair to Remember, An (1957)",Romance
+393,3,253,4.251796240705165,"Pillow Book, The (1995)",Drama|Romance
+393,4,520,4.234511782862148,"Great Escape, The (1963)",Adventure|War
+393,5,727,4.193845705022727,Immortal Beloved (1994),Drama|Romance
+393,6,1524,4.163976502777397,Kaspar Hauser (1993),Drama
+393,7,48,4.139204098245588,Hoop Dreams (1994),Documentary
+393,8,657,4.11626785078841,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+393,9,28,4.113722390846427,Apollo 13 (1995),Action|Drama|Thriller
+393,10,190,4.113012213142916,Henry V (1989),Drama|War
+397,1,187,5.0190873763078985,"Godfather: Part II, The (1974)",Action|Crime|Drama
+397,2,654,4.831379943358922,Chinatown (1974),Film-Noir|Mystery|Thriller
+397,3,144,4.783113830147443,Die Hard (1988),Action|Thriller
+397,4,1142,4.732793027725217,When We Were Kings (1996),Documentary
+397,5,661,4.725340730486442,High Noon (1952),Western
+397,6,482,4.690994419600587,Some Like It Hot (1959),Comedy|Crime
+397,7,168,4.687223244212449,Monty Python and the Holy Grail (1974),Comedy
+397,8,408,4.6848740682870265,"Close Shave, A (1995)",Animation|Comedy|Thriller
+397,9,180,4.669285248090599,Apocalypse Now (1979),Drama|War
+397,10,603,4.667625929515141,Rear Window (1954),Mystery|Thriller
+407,1,114,4.756795187460189,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+407,2,12,4.659502134213723,"Usual Suspects, The (1995)",Crime|Thriller
+407,3,64,4.576294135093165,"Shawshank Redemption, The (1994)",Drama
+407,4,318,4.5190050988599335,Schindler's List (1993),Drama|War
+407,5,480,4.479450603123007,North by Northwest (1959),Comedy|Thriller
+407,6,178,4.42580586022795,12 Angry Men (1957),Drama
+407,7,165,4.323408145350649,Jean de Florette (1986),Drama
+407,8,489,4.322885132901524,Notorious (1946),Film-Noir|Romance|Thriller
+407,9,515,4.311448864513708,"Boot, Das (1981)",Action|Drama|War
+407,10,302,4.299124080012124,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+416,1,258,4.568189736847644,Contact (1997),Drama|Sci-Fi
+416,2,272,4.4586043180409005,Good Will Hunting (1997),Drama
+416,3,963,4.415794290326805,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+416,4,531,4.381232946309305,Shine (1996),Drama|Romance
+416,5,478,4.36621143611839,"Philadelphia Story, The (1940)",Comedy|Romance
+416,6,64,4.357759467218646,"Shawshank Redemption, The (1994)",Drama
+416,7,22,4.344295872606645,Braveheart (1995),Action|Drama|War
+416,8,98,4.299508778484217,"Silence of the Lambs, The (1991)",Drama|Thriller
+416,9,1524,4.290641326430398,Kaspar Hauser (1993),Drama
+416,10,126,4.269496274031608,"Spitfire Grill, The (1996)",Drama
+425,1,42,4.356316645699303,Clerks (1994),Comedy
+425,2,135,4.3083040354242925,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+425,3,276,4.289250679728888,Leaving Las Vegas (1995),Drama|Romance
+425,4,246,4.146114577064106,Chasing Amy (1997),Drama|Romance
+425,5,175,4.099035401834161,Brazil (1985),Sci-Fi
+425,6,23,4.087190856709806,Taxi Driver (1976),Drama|Thriller
+425,7,432,4.056273289141476,Fantasia (1940),Animation|Children's|Musical
+425,8,1065,4.0559148723102885,Koyaanisqatsi (1983),Documentary|War
+425,9,150,4.047014010572336,Swingers (1996),Comedy|Drama
+425,10,173,4.017565130446659,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+428,1,50,5.415666213842101,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+428,2,408,5.38240115840068,"Close Shave, A (1995)",Animation|Comedy|Thriller
+428,3,174,5.228001749892616,Raiders of the Lost Ark (1981),Action|Adventure
+428,4,169,5.2039324250973795,"Wrong Trousers, The (1993)",Animation|Comedy
+428,5,172,5.162083368894634,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+428,6,318,5.108883449996596,Schindler's List (1993),Drama|War
+428,7,483,5.095270104842626,Casablanca (1942),Drama|Romance|War
+428,8,64,5.074875970999988,"Shawshank Redemption, The (1994)",Drama
+428,9,1367,4.9722495919478105,Faust (1994),Animation
+428,10,963,4.966011372713393,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+450,1,515,4.970233950034263,"Boot, Das (1981)",Action|Drama|War
+450,2,408,4.824552894516282,"Close Shave, A (1995)",Animation|Comedy|Thriller
+450,3,963,4.7413378198282805,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+450,4,429,4.66605408457049,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+450,5,1251,4.663592296015195,A Chef in Love (1996),Comedy
+450,6,1367,4.65960414906259,Faust (1994),Animation
+450,7,1233,4.652167199513617,Nénette et Boni (1996),Drama
+450,8,1169,4.608994261250039,Fresh (1994),Drama
+450,9,1524,4.600891595471921,Kaspar Hauser (1993),Drama
+450,10,1194,4.557460552654007,Once Were Warriors (1994),Crime|Drama
+455,1,963,4.435524559492681,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+455,2,483,4.367128436625501,Casablanca (1942),Drama|Romance|War
+455,3,496,4.346855592947552,It's a Wonderful Life (1946),Drama
+455,4,199,4.261122718761863,"Bridge on the River Kwai, The (1957)",Drama|War
+455,5,408,4.252969557848549,"Close Shave, A (1995)",Animation|Comedy|Thriller
+455,6,134,4.243623145053972,Citizen Kane (1941),Drama
+455,7,493,4.21051488493258,"Thin Man, The (1934)",Mystery
+455,8,429,4.192303583449234,"Day the Earth Stood Still, The (1951)",Drama|Sci-Fi
+455,9,661,4.1881528985288705,High Noon (1952),Western
+455,10,1131,4.186388446874843,Safe (1995),Thriller
+458,1,60,5.013758317576365,Three Colors: Blue (1993),Drama
+458,2,175,4.964726157724309,Brazil (1985),Sci-Fi
+458,3,59,4.7789782964382095,Three Colors: Red (1994),Drama
+458,4,114,4.736714075199705,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+458,5,512,4.635276263008172,Wings of Desire (1987),Comedy|Drama|Romance
+458,6,657,4.5666429523052745,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+458,7,919,4.549789559872443,"City of Lost Children, The (1995)",Adventure|Sci-Fi
+458,8,641,4.545158282124876,Paths of Glory (1957),Drama|War
+458,9,320,4.522186313578008,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary
+458,10,611,4.520715558680357,Laura (1944),Crime|Film-Noir|Mystery
+463,1,318,4.654992832854909,Schindler's List (1993),Drama|War
+463,2,408,4.49685911875982,"Close Shave, A (1995)",Animation|Comedy|Thriller
+463,3,98,4.474910765184802,"Silence of the Lambs, The (1991)",Drama|Thriller
+463,4,515,4.472029158981094,"Boot, Das (1981)",Action|Drama|War
+463,5,659,4.4271605674556405,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+463,6,114,4.335375801073819,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+463,7,480,4.314363638923211,North by Northwest (1959),Comedy|Thriller
+463,8,64,4.310223380094787,"Shawshank Redemption, The (1994)",Drama
+463,9,427,4.30641418309901,To Kill a Mockingbird (1962),Drama
+463,10,357,4.302715794903786,One Flew Over the Cuckoo's Nest (1975),Drama
+472,1,114,5.956475916455979,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+472,2,169,5.76912899219409,"Wrong Trousers, The (1993)",Animation|Comedy
+472,3,408,5.5229364649486055,"Close Shave, A (1995)",Animation|Comedy|Thriller
+472,4,512,5.467617648078885,Wings of Desire (1987),Comedy|Drama|Romance
+472,5,89,5.452905659761149,Blade Runner (1982),Film-Noir|Sci-Fi
+472,6,514,5.451899257282517,Annie Hall (1977),Comedy|Romance
+472,7,1005,5.441108254284996,"Double vie de Véronique, La (Double Life of Veronique, The) (1991)",Drama
+472,8,923,5.4011711862118155,Raise the Red Lantern (1991),Drama
+472,9,521,5.300051820272133,"Deer Hunter, The (1978)",Drama|War
+472,10,1524,5.2591256340114505,Kaspar Hauser (1993),Drama
+483,1,408,3.957333529964806,"Close Shave, A (1995)",Animation|Comedy|Thriller
+483,2,963,3.953877224770702,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+483,3,483,3.9519987145985804,Casablanca (1942),Drama|Romance|War
+483,4,651,3.8995506974982197,Glory (1989),Action|Drama|War
+483,5,57,3.891473660756133,Priest (1994),Drama
+483,6,136,3.8890012935108613,Mr. Smith Goes to Washington (1939),Drama
+483,7,132,3.842386559024751,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+483,8,1367,3.8357609204119067,Faust (1994),Animation
+483,9,269,3.8296908146004296,"Full Monty, The (1997)",Comedy
+483,10,1194,3.82696391207734,Once Were Warriors (1994),Crime|Drama
+484,1,172,5.105728125379985,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+484,2,496,4.968300648837167,It's a Wonderful Life (1946),Drama
+484,3,174,4.841145257774483,Raiders of the Lost Ark (1981),Action|Adventure
+484,4,64,4.789033917451495,"Shawshank Redemption, The (1994)",Drama
+484,5,199,4.768708377996952,"Bridge on the River Kwai, The (1957)",Drama|War
+484,6,166,4.743371268221421,Manon of the Spring (Manon des sources) (1986),Drama
+484,7,194,4.622482747095905,"Sting, The (1973)",Comedy|Crime
+484,8,22,4.598225525256309,Braveheart (1995),Action|Drama|War
+484,9,963,4.597855579565078,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+484,10,378,4.595118697950428,Miracle on 34th Street (1994),Drama
+500,1,114,4.716941429727091,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+500,2,169,4.609849593271108,"Wrong Trousers, The (1993)",Animation|Comedy
+500,3,137,4.472232912297719,Big Night (1996),Drama
+500,4,156,4.4661615848073435,Reservoir Dogs (1992),Crime|Thriller
+500,5,315,4.465333529500992,Apt Pupil (1998),Drama|Thriller
+500,6,12,4.448915809196205,"Usual Suspects, The (1995)",Crime|Thriller
+500,7,856,4.393328971459521,Night on Earth (1991),Comedy|Drama
+500,8,408,4.393116205849748,"Close Shave, A (1995)",Animation|Comedy|Thriller
+500,9,1524,4.3815469384728924,Kaspar Hauser (1993),Drama
+500,10,1367,4.362588863422212,Faust (1994),Animation
+503,1,447,5.228519152113735,Carrie (1976),Horror
+503,2,880,5.110658700666221,Soul Food (1997),Drama
+503,3,483,5.095037703965038,Casablanca (1942),Drama|Romance|War
+503,4,208,5.050103184903136,Young Frankenstein (1974),Comedy|Horror
+503,5,191,4.977438549352168,Amadeus (1984),Drama|Mystery
+503,6,480,4.931331868337385,North by Northwest (1959),Comedy|Thriller
+503,7,709,4.930931478073193,Strictly Ballroom (1992),Comedy|Romance
+503,8,1142,4.889578944002648,When We Were Kings (1996),Documentary
+503,9,169,4.844499543313353,"Wrong Trousers, The (1993)",Animation|Comedy
+503,10,114,4.831482119452714,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+504,1,1524,4.772511459722777,Kaspar Hauser (1993),Drama
+504,2,114,4.719068210880686,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+504,3,189,4.714653164649882,"Grand Day Out, A (1992)",Animation|Comedy
+504,4,923,4.651056978556759,Raise the Red Lantern (1991),Drama
+504,5,64,4.539512721095906,"Shawshank Redemption, The (1994)",Drama
+504,6,659,4.528789534640887,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+504,7,707,4.52765997021365,Enchanted April (1991),Drama
+504,8,512,4.526236681672616,Wings of Desire (1987),Comedy|Drama|Romance
+504,9,169,4.5022731025882985,"Wrong Trousers, The (1993)",Animation|Comedy
+504,10,746,4.49944044493322,Real Genius (1985),Comedy
+505,1,483,4.4433278291996166,Casablanca (1942),Drama|Romance|War
+505,2,1367,4.441793383807451,Faust (1994),Animation
+505,3,114,4.389281620834505,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+505,4,480,4.388752004996864,North by Northwest (1959),Comedy|Thriller
+505,5,134,4.375814958286282,Citizen Kane (1941),Drama
+505,6,169,4.35894824388366,"Wrong Trousers, The (1993)",Animation|Comedy
+505,7,657,4.279758970472808,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+505,8,48,4.265309429899242,Hoop Dreams (1994),Documentary
+505,9,1524,4.252720145030329,Kaspar Hauser (1993),Drama
+505,10,408,4.245011909201443,"Close Shave, A (1995)",Animation|Comedy|Thriller
+506,1,144,4.952289622673236,Die Hard (1988),Action|Thriller
+506,2,480,4.940155936211316,North by Northwest (1959),Comedy|Thriller
+506,3,64,4.613730418671421,"Shawshank Redemption, The (1994)",Drama
+506,4,568,4.599443421495132,Speed (1994),Action|Romance|Thriller
+506,5,318,4.5951354382073335,Schindler's List (1993),Drama|War
+506,6,178,4.577357088934871,12 Angry Men (1957),Drama
+506,7,22,4.553311148402881,Braveheart (1995),Action|Drama|War
+506,8,313,4.547452975072217,Titanic (1997),Action|Drama|Romance
+506,9,11,4.542088870147586,Seven (Se7en) (1995),Crime|Thriller
+506,10,1012,4.5419047403407244,Private Parts (1997),Comedy|Drama
+514,1,56,4.544854522710931,Pulp Fiction (1994),Crime|Drama
+514,2,427,4.504506089197511,To Kill a Mockingbird (1962),Drama
+514,3,315,4.4873267037162545,Apt Pupil (1998),Drama|Thriller
+514,4,251,4.485340623318022,Shall We Dance? (1996),Comedy
+514,5,515,4.475875250375601,"Boot, Das (1981)",Action|Drama|War
+514,6,9,4.46757642362775,Dead Man Walking (1995),Drama
+514,7,313,4.454021209888697,Titanic (1997),Action|Drama|Romance
+514,8,657,4.434492921955903,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+514,9,613,4.421243576499443,My Man Godfrey (1936),Comedy
+514,10,1524,4.403522937915222,Kaspar Hauser (1993),Drama
+517,1,483,4.452622126440653,Casablanca (1942),Drama|Romance|War
+517,2,169,4.393796920695062,"Wrong Trousers, The (1993)",Animation|Comedy
+517,3,114,4.387847621376098,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+517,4,165,4.384795975585567,Jean de Florette (1986),Drama
+517,5,50,4.382489673950538,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+517,6,173,4.38100544376106,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+517,7,64,4.380279475230385,"Shawshank Redemption, The (1994)",Drama
+517,8,12,4.377334615578458,"Usual Suspects, The (1995)",Crime|Thriller
+517,9,98,4.3718899065119174,"Silence of the Lambs, The (1991)",Drama|Thriller
+517,10,515,4.363566396014744,"Boot, Das (1981)",Action|Drama|War
+530,1,169,4.620667983680308,"Wrong Trousers, The (1993)",Animation|Comedy
+530,2,408,4.604131922678555,"Close Shave, A (1995)",Animation|Comedy|Thriller
+530,3,1524,4.594081038110714,Kaspar Hauser (1993),Drama
+530,4,1019,4.585665494355202,"Die xue shuang xiong (Killer, The) (1989)",Action|Thriller
+530,5,603,4.580673481507425,Rear Window (1954),Mystery|Thriller
+530,6,1367,4.531545140529291,Faust (1994),Animation
+530,7,488,4.529386120084366,Sunset Blvd. (1950),Film-Noir
+530,8,1169,4.5269226642792955,Fresh (1994),Drama
+530,9,114,4.507229657436827,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+530,10,515,4.472164807436879,"Boot, Das (1981)",Action|Drama|War
+532,1,318,5.219275798430507,Schindler's List (1993),Drama|War
+532,2,50,5.149964046066492,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+532,3,174,5.147848334765605,Raiders of the Lost Ark (1981),Action|Adventure
+532,4,96,5.1467478163879905,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+532,5,22,5.132469563529293,Braveheart (1995),Action|Drama|War
+532,6,98,5.128238086537366,"Silence of the Lambs, The (1991)",Drama|Thriller
+532,7,144,5.103995210298772,Die Hard (1988),Action|Thriller
+532,8,172,5.0602843576792464,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+532,9,69,5.0550541837464085,Forrest Gump (1994),Comedy|Romance|War
+532,10,97,4.968533239194901,Dances with Wolves (1990),Adventure|Drama|Western
+533,1,1160,4.440542424563431,Love! Valour! Compassion! (1997),Drama|Romance
+533,2,963,4.36723325902325,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+533,3,520,4.255668424154252,"Great Escape, The (1963)",Adventure|War
+533,4,166,4.213760484728059,Manon of the Spring (Manon des sources) (1986),Drama
+533,5,199,4.195660265597501,"Bridge on the River Kwai, The (1957)",Drama|War
+533,6,136,4.174710710665538,Mr. Smith Goes to Washington (1939),Drama
+533,7,510,4.173575572798605,"Magnificent Seven, The (1954)",Action|Drama|Western
+533,8,969,4.134328450405103,Winnie the Pooh and the Blustery Day (1968),Animation|Children's
+533,9,604,4.1287293511507315,It Happened One Night (1934),Comedy
+533,10,6,4.110848435866272,Shanghai Triad (Yao a yao yao dao waipo qiao) (1995),Drama
+577,1,169,4.780267853940277,"Wrong Trousers, The (1993)",Animation|Comedy
+577,2,408,4.746533057034324,"Close Shave, A (1995)",Animation|Comedy|Thriller
+577,3,57,4.717969468017073,Priest (1994),Drama
+577,4,923,4.691140139985506,Raise the Red Lantern (1991),Drama
+577,5,483,4.685908221802067,Casablanca (1942),Drama|Romance|War
+577,6,1160,4.68382812770629,Love! Valour! Compassion! (1997),Drama|Romance
+577,7,166,4.682096715268322,Manon of the Spring (Manon des sources) (1986),Drama
+577,8,189,4.662638599896379,"Grand Day Out, A (1992)",Animation|Comedy
+577,9,963,4.636493980827289,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+577,10,694,4.621848461805765,Persuasion (1995),Romance
+621,1,127,4.904049516336608,"Godfather, The (1972)",Action|Crime|Drama
+621,2,156,4.8902798103880185,Reservoir Dogs (1992),Crime|Thriller
+621,3,187,4.807208334853935,"Godfather: Part II, The (1974)",Action|Crime|Drama
+621,4,56,4.795028597128713,Pulp Fiction (1994),Crime|Drama
+621,5,195,4.78324128615357,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+621,6,316,4.766967162192344,As Good As It Gets (1997),Comedy|Drama
+621,7,613,4.75422294242851,My Man Godfrey (1936),Comedy
+621,8,268,4.737255716729423,Chasing Amy (1997),Drama|Romance
+621,9,302,4.73331517997157,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+621,10,246,4.704631615288356,Chasing Amy (1997),Drama|Romance
+624,1,318,4.772505924934132,Schindler's List (1993),Drama|War
+624,2,98,4.723100786877038,"Silence of the Lambs, The (1991)",Drama|Thriller
+624,3,483,4.712418920776037,Casablanca (1942),Drama|Romance|War
+624,4,114,4.711899333471724,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+624,5,64,4.696895633243194,"Shawshank Redemption, The (1994)",Drama
+624,6,408,4.69604867286955,"Close Shave, A (1995)",Animation|Comedy|Thriller
+624,7,169,4.683089094420618,"Wrong Trousers, The (1993)",Animation|Comedy
+624,8,357,4.566598863110387,One Flew Over the Cuckoo's Nest (1975),Drama
+624,9,12,4.563743736672089,"Usual Suspects, The (1995)",Crime|Thriller
+624,10,1524,4.549334552259068,Kaspar Hauser (1993),Drama
+634,1,56,4.867355274892996,Pulp Fiction (1994),Crime|Drama
+634,2,64,4.581692545398353,"Shawshank Redemption, The (1994)",Drama
+634,3,22,4.570019596614927,Braveheart (1995),Action|Drama|War
+634,4,318,4.527255456981198,Schindler's List (1993),Drama|War
+634,5,48,4.502696826195544,Hoop Dreams (1994),Documentary
+634,6,187,4.4946350860137265,"Godfather: Part II, The (1974)",Action|Crime|Drama
+634,7,272,4.477962979131153,Good Will Hunting (1997),Drama
+634,8,205,4.47759925590973,Patton (1970),Drama|War
+634,9,174,4.452569199288142,Raiders of the Lost Ark (1981),Action|Adventure
+634,10,98,4.422092714454822,"Silence of the Lambs, The (1991)",Drama|Thriller
+640,1,50,5.301437721629448,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+640,2,408,5.21277509545263,"Close Shave, A (1995)",Animation|Comedy|Thriller
+640,3,172,5.15687017223261,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+640,4,135,5.153938955987806,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+640,5,114,5.094492049685883,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+640,6,483,5.071350699330113,Casablanca (1942),Drama|Romance|War
+640,7,187,5.055936228510281,"Godfather: Part II, The (1974)",Action|Crime|Drama
+640,8,603,5.048511342138839,Rear Window (1954),Mystery|Thriller
+640,9,285,4.970271634768798,Secrets & Lies (1996),Drama
+640,10,480,4.938319257910461,North by Northwest (1959),Comedy|Thriller
+642,1,163,5.232731804439346,"Return of the Pink Panther, The (1974)",Comedy
+642,2,727,4.996222641307391,Immortal Beloved (1994),Drama|Romance
+642,3,169,4.9871795511081185,"Wrong Trousers, The (1993)",Animation|Comedy
+642,4,408,4.914792602530241,"Close Shave, A (1995)",Animation|Comedy|Thriller
+642,5,109,4.88538315487156,Mystery Science Theater 3000: The Movie (1996),Comedy|Sci-Fi
+642,6,269,4.83090683595251,"Full Monty, The (1997)",Comedy
+642,7,265,4.83013701894274,"Hunt for Red October, The (1990)",Action|Thriller
+642,8,300,4.8092519052470415,Air Force One (1997),Action|Thriller
+642,9,657,4.800190514570053,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+642,10,483,4.7747754867916665,Casablanca (1942),Drama|Romance|War
+653,1,169,4.146777145290934,"Wrong Trousers, The (1993)",Animation|Comedy
+653,2,408,4.138330996075579,"Close Shave, A (1995)",Animation|Comedy|Thriller
+653,3,48,3.9791837184704106,Hoop Dreams (1994),Documentary
+653,4,313,3.9225009919574907,Titanic (1997),Action|Drama|Romance
+653,5,114,3.917979844288705,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+653,6,513,3.9048045763343775,"Third Man, The (1949)",Mystery|Thriller
+653,7,12,3.854443783796315,"Usual Suspects, The (1995)",Crime|Thriller
+653,8,134,3.8525597842826764,Citizen Kane (1941),Drama
+653,9,661,3.82952065698168,High Noon (1952),Western
+653,10,273,3.7814872664738073,Heat (1995),Action|Crime|Thriller
+654,1,230,4.702132077139531,Star Trek IV: The Voyage Home (1986),Action|Adventure|Sci-Fi
+654,2,480,4.657513255427561,North by Northwest (1959),Comedy|Thriller
+654,3,603,4.602166177826783,Rear Window (1954),Mystery|Thriller
+654,4,659,4.587967517415377,Arsenic and Old Lace (1944),Comedy|Mystery|Thriller
+654,5,427,4.579986372262494,To Kill a Mockingbird (1962),Drama
+654,6,419,4.5593789747997375,Mary Poppins (1964),Children's|Comedy|Musical
+654,7,489,4.543185400365321,Notorious (1946),Film-Noir|Romance|Thriller
+654,8,64,4.532835583957092,"Shawshank Redemption, The (1994)",Drama
+654,9,132,4.513975953471235,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+654,10,520,4.459768001169086,"Great Escape, The (1963)",Adventure|War
+655,1,169,4.012222345556281,"Wrong Trousers, The (1993)",Animation|Comedy
+655,2,408,3.9459437694541397,"Close Shave, A (1995)",Animation|Comedy|Thriller
+655,3,114,3.807874218266355,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+655,4,1367,3.806401077171831,Faust (1994),Animation
+655,5,189,3.7751952405670526,"Grand Day Out, A (1992)",Animation|Comedy
+655,6,853,3.767472048520958,Braindead (1992),Comedy|Horror
+655,7,657,3.745973810377892,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+655,8,488,3.705977129330327,Sunset Blvd. (1950),Film-Noir
+655,9,180,3.6803900895213157,Apocalypse Now (1979),Drama|War
+655,10,641,3.665497562142569,Paths of Glory (1957),Drama|War
+661,1,114,4.6876798489704825,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+661,2,12,4.645715710173111,"Usual Suspects, The (1995)",Crime|Thriller
+661,3,963,4.645647441237546,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+661,4,520,4.588682627403874,"Great Escape, The (1963)",Adventure|War
+661,5,1142,4.5744091319707865,When We Were Kings (1996),Documentary
+661,6,483,4.539577512679539,Casablanca (1942),Drama|Romance|War
+661,7,22,4.514553606716684,Braveheart (1995),Action|Drama|War
+661,8,613,4.510741279889893,My Man Godfrey (1936),Comedy
+661,9,98,4.508474860535009,"Silence of the Lambs, The (1991)",Drama|Thriller
+661,10,484,4.438650755117152,"Maltese Falcon, The (1941)",Film-Noir|Mystery
+668,1,12,4.874996002491984,"Usual Suspects, The (1995)",Crime|Thriller
+668,2,641,4.738581919727392,Paths of Glory (1957),Drama|War
+668,3,320,4.683493404041636,Paradise Lost: The Child Murders at Robin Hood Hills (1996),Documentary
+668,4,169,4.679494312736499,"Wrong Trousers, The (1993)",Animation|Comedy
+668,5,179,4.6579292828367915,"Clockwork Orange, A (1971)",Sci-Fi
+668,6,60,4.595496606777599,Three Colors: Blue (1993),Drama
+668,7,114,4.571369236305263,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+668,8,512,4.550977041233875,Wings of Desire (1987),Comedy|Drama|Romance
+668,9,1019,4.543675752921694,"Die xue shuang xiong (Killer, The) (1989)",Action|Thriller
+668,10,530,4.526037807429724,"Man Who Would Be King, The (1975)",Adventure
+677,1,114,5.896329495051354,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+677,2,96,5.717700818395541,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+677,3,56,5.689828635827873,Pulp Fiction (1994),Crime|Drama
+677,4,173,5.685176620995829,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+677,5,12,5.640775293914421,"Usual Suspects, The (1995)",Crime|Thriller
+677,6,50,5.619661154440335,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+677,7,174,5.608484804981631,Raiders of the Lost Ark (1981),Action|Adventure
+677,8,64,5.606865606168553,"Shawshank Redemption, The (1994)",Drama
+677,9,169,5.5781069291734315,"Wrong Trousers, The (1993)",Animation|Comedy
+677,10,313,5.5743991857655555,Titanic (1997),Action|Drama|Romance
+699,1,189,4.393999262909241,"Grand Day Out, A (1992)",Animation|Comedy
+699,2,923,4.384469608895769,Raise the Red Lantern (1991),Drama
+699,3,512,4.373644112602922,Wings of Desire (1987),Comedy|Drama|Romance
+699,4,242,4.365997940397173,Kolya (1996),Comedy
+699,5,707,4.328691157535145,Enchanted April (1991),Drama
+699,6,1524,4.292372313038181,Kaspar Hauser (1993),Drama
+699,7,516,4.277636651977367,Local Hero (1983),Comedy
+699,8,1137,4.2341088287001964,Beautiful Thing (1996),Drama|Romance
+699,9,113,4.220395846581884,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+699,10,272,4.2166880553591986,Good Will Hunting (1997),Drama
+707,1,126,4.484358818584236,"Spitfire Grill, The (1996)",Drama
+707,2,98,4.46862574662967,"Silence of the Lambs, The (1991)",Drama|Thriller
+707,3,856,4.404382752299629,Night on Earth (1991),Comedy|Drama
+707,4,1524,4.38006752684796,Kaspar Hauser (1993),Drama
+707,5,272,4.357675873088677,Good Will Hunting (1997),Drama
+707,6,512,4.34926739693439,Wings of Desire (1987),Comedy|Drama|Romance
+707,7,113,4.340634385338311,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+707,8,189,4.208771724486543,"Grand Day Out, A (1992)",Animation|Comedy
+707,9,493,4.204845766023643,"Thin Man, The (1934)",Mystery
+707,10,463,4.178648677659127,"Secret of Roan Inish, The (1994)",Adventure
+708,1,64,4.71305791303689,"Shawshank Redemption, The (1994)",Drama
+708,2,172,4.625846212507582,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+708,3,174,4.617265448249819,Raiders of the Lost Ark (1981),Action|Adventure
+708,4,1160,4.558376427448934,Love! Valour! Compassion! (1997),Drama|Romance
+708,5,496,4.557726259403621,It's a Wonderful Life (1946),Drama
+708,6,313,4.52847734561195,Titanic (1997),Action|Drama|Romance
+708,7,69,4.52602305500486,Forrest Gump (1994),Comedy|Romance|War
+708,8,282,4.516012298373081,"Time to Kill, A (1996)",Drama
+708,9,966,4.467539584849915,"Affair to Remember, An (1957)",Romance
+708,10,272,4.452391022828044,Good Will Hunting (1997),Drama
+711,1,131,5.070530647065482,Breakfast at Tiffany's (1961),Drama|Romance
+711,2,515,4.939899859086733,"Boot, Das (1981)",Action|Drama|War
+711,3,242,4.929943379736535,Kolya (1996),Comedy
+711,4,493,4.919861969074951,"Thin Man, The (1934)",Mystery
+711,5,14,4.919010702751207,"Postino, Il (1994)",Drama|Romance
+711,6,963,4.886336590310022,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+711,7,898,4.876664448284591,"Postman, The (1997)",Drama
+711,8,1194,4.8467415952169155,Once Were Warriors (1994),Crime|Drama
+711,9,474,4.843442031971449,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War
+711,10,657,4.807678144222051,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+738,1,50,4.573126815701475,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+738,2,169,4.416131424890113,"Wrong Trousers, The (1993)",Animation|Comedy
+738,3,483,4.388939337119563,Casablanca (1942),Drama|Romance|War
+738,4,613,4.361504801233711,My Man Godfrey (1936),Comedy
+738,5,114,4.294017458276124,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+738,6,12,4.22359040259144,"Usual Suspects, The (1995)",Crime|Thriller
+738,7,113,4.223408242767269,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+738,8,166,4.1948886152963425,Manon of the Spring (Manon des sources) (1986),Drama
+738,9,1367,4.184865080530391,Faust (1994),Animation
+738,10,657,4.169785650349079,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+751,1,963,4.713817264579389,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+751,2,496,4.621815312649002,It's a Wonderful Life (1946),Drama
+751,3,166,4.522851055649895,Manon of the Spring (Manon des sources) (1986),Drama
+751,4,199,4.518958427877909,"Bridge on the River Kwai, The (1957)",Drama|War
+751,5,1142,4.509879263299019,When We Were Kings (1996),Documentary
+751,6,275,4.485204154356624,Sense and Sensibility (1995),Drama|Romance
+751,7,478,4.483176957495686,"Philadelphia Story, The (1940)",Comedy|Romance
+751,8,530,4.429142824265975,"Man Who Would Be King, The (1975)",Adventure
+751,9,657,4.422888008143348,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+751,10,694,4.413592565296294,Persuasion (1995),Romance
+810,1,408,5.543988494071568,"Close Shave, A (1995)",Animation|Comedy|Thriller
+810,2,169,5.434198114617395,"Wrong Trousers, The (1993)",Animation|Comedy
+810,3,657,5.346509637307332,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+810,4,483,5.33462638915662,Casablanca (1942),Drama|Romance|War
+810,5,64,5.3202013174089,"Shawshank Redemption, The (1994)",Drama
+810,6,83,5.296431031163473,Much Ado About Nothing (1993),Comedy|Romance
+810,7,318,5.270949653185354,Schindler's List (1993),Drama|War
+810,8,1367,5.266291556660997,Faust (1994),Animation
+810,9,963,5.260971644523821,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+810,10,1019,5.24980102468427,"Die xue shuang xiong (Killer, The) (1989)",Action|Thriller
+825,1,313,5.060364295503344,Titanic (1997),Action|Drama|Romance
+825,2,22,4.935165138628532,Braveheart (1995),Action|Drama|War
+825,3,1019,4.8424350437581465,"Die xue shuang xiong (Killer, The) (1989)",Action|Thriller
+825,4,399,4.780682209833082,"Three Musketeers, The (1993)",Action|Adventure|Comedy
+825,5,82,4.7623213567279725,Jurassic Park (1993),Action|Adventure|Sci-Fi
+825,6,328,4.730642502106562,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+825,7,300,4.7264991822845115,Air Force One (1997),Action|Thriller
+825,8,966,4.694082803936399,"Affair to Remember, An (1957)",Romance
+825,9,169,4.67085323539877,"Wrong Trousers, The (1993)",Animation|Comedy
+825,10,265,4.66352693161916,"Hunt for Red October, The (1990)",Action|Thriller
+829,1,483,4.634528287332862,Casablanca (1942),Drama|Romance|War
+829,2,127,4.634316488851159,"Godfather, The (1972)",Action|Crime|Drama
+829,3,50,4.580294859532728,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+829,4,134,4.572657730152838,Citizen Kane (1941),Drama
+829,5,172,4.463315986995033,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+829,6,98,4.459629240332693,"Silence of the Lambs, The (1991)",Drama|Thriller
+829,7,480,4.4038928300601725,North by Northwest (1959),Comedy|Thriller
+829,8,197,4.370741575683249,"Graduate, The (1967)",Drama|Romance
+829,9,135,4.365792920027216,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+829,10,191,4.352460449249513,Amadeus (1984),Drama|Mystery
+838,1,613,4.930470681106156,My Man Godfrey (1936),Comedy
+838,2,1142,4.819679463454316,When We Were Kings (1996),Documentary
+838,3,515,4.774337497756306,"Boot, Das (1981)",Action|Drama|War
+838,4,963,4.75022681858991,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+838,5,483,4.735836428152124,Casablanca (1942),Drama|Romance|War
+838,6,64,4.681701605944338,"Shawshank Redemption, The (1994)",Drama
+838,7,478,4.679290561266046,"Philadelphia Story, The (1940)",Comedy|Romance
+838,8,651,4.6366765261405485,Glory (1989),Action|Drama|War
+838,9,657,4.635099803702007,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+838,10,213,4.625105873454267,"Room with a View, A (1986)",Drama|Romance
+851,1,96,4.977653848063289,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+851,2,853,4.8657266867583715,Braindead (1992),Comedy|Horror
+851,3,50,4.8601605750085515,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+851,4,357,4.661140339981144,One Flew Over the Cuckoo's Nest (1975),Drama
+851,5,114,4.655036294610598,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+851,6,195,4.642340583995378,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+851,7,219,4.628162269191311,"Nightmare on Elm Street, A (1984)",Horror
+851,8,183,4.618827176604036,Alien (1979),Action|Horror|Sci-Fi|Thriller
+851,9,200,4.609087740936937,"Shining, The (1980)",Horror
+851,10,641,4.566223691038907,Paths of Glory (1957),Drama|War
+864,1,313,5.0194991933526945,Titanic (1997),Action|Drama|Romance
+864,2,272,4.908243386892527,Good Will Hunting (1997),Drama
+864,3,302,4.878716734606713,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+864,4,166,4.660640654794424,Manon of the Spring (Manon des sources) (1986),Drama
+864,5,199,4.6315938282515905,"Bridge on the River Kwai, The (1957)",Drama|War
+864,6,515,4.626494255515472,"Boot, Das (1981)",Action|Drama|War
+864,7,480,4.607481073315738,North by Northwest (1959),Comedy|Thriller
+864,8,613,4.5953299055627,My Man Godfrey (1936),Comedy
+864,9,179,4.584737436926279,"Clockwork Orange, A (1971)",Sci-Fi
+864,10,1367,4.58079739193812,Faust (1994),Animation
+870,1,114,4.4341863616246595,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+870,2,187,4.264051037248159,"Godfather: Part II, The (1974)",Action|Crime|Drama
+870,3,482,4.252410764089042,Some Like It Hot (1959),Comedy|Crime
+870,4,272,4.242551708923328,Good Will Hunting (1997),Drama
+870,5,190,4.211027230726721,Henry V (1989),Drama|War
+870,6,512,4.210906264085367,Wings of Desire (1987),Comedy|Drama|Romance
+870,7,251,4.133404184534465,Shall We Dance? (1996),Comedy
+870,8,176,4.120740391452572,Aliens (1986),Action|Sci-Fi|Thriller|War
+870,9,853,4.107390061529552,Braindead (1992),Comedy|Horror
+870,10,1524,4.1031729278215545,Kaspar Hauser (1993),Drama
+880,1,480,4.73304154304922,North by Northwest (1959),Comedy|Thriller
+880,2,114,4.704903175164226,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+880,3,192,4.6697798362298535,Raging Bull (1980),Drama
+880,4,313,4.669212427251093,Titanic (1997),Action|Drama|Romance
+880,5,169,4.665161470573308,"Wrong Trousers, The (1993)",Animation|Comedy
+880,6,178,4.644873339383494,12 Angry Men (1957),Drama
+880,7,199,4.619386502713634,"Bridge on the River Kwai, The (1957)",Drama|War
+880,8,408,4.616645054584014,"Close Shave, A (1995)",Animation|Comedy|Thriller
+880,9,483,4.5820174035752546,Casablanca (1942),Drama|Romance|War
+880,10,641,4.581022817020606,Paths of Glory (1957),Drama|War
+891,1,169,5.223017926128265,"Wrong Trousers, The (1993)",Animation|Comedy
+891,2,408,5.154111089979885,"Close Shave, A (1995)",Animation|Comedy|Thriller
+891,3,483,5.028242090438681,Casablanca (1942),Drama|Romance|War
+891,4,318,5.0158824993323154,Schindler's List (1993),Drama|War
+891,5,1194,5.002953669629402,Once Were Warriors (1994),Crime|Drama
+891,6,275,4.998004877955392,Sense and Sensibility (1995),Drama|Romance
+891,7,83,4.976178401017537,Much Ado About Nothing (1993),Comedy|Romance
+891,8,657,4.9707571329613485,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+891,9,64,4.9384693853922546,"Shawshank Redemption, The (1994)",Drama
+891,10,1524,4.936531649658741,Kaspar Hauser (1993),Drama
+894,1,169,4.8088978749719775,"Wrong Trousers, The (1993)",Animation|Comedy
+894,2,408,4.735650608773383,"Close Shave, A (1995)",Animation|Comedy|Thriller
+894,3,89,4.71099686128792,Blade Runner (1982),Film-Noir|Sci-Fi
+894,4,114,4.633885648067924,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+894,5,657,4.590292681893596,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+894,6,175,4.4987860609666335,Brazil (1985),Sci-Fi
+894,7,483,4.489342472756097,Casablanca (1942),Drama|Romance|War
+894,8,474,4.450538862431924,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb (1963),Sci-Fi|War
+894,9,514,4.445794897618881,Annie Hall (1977),Comedy|Romance
+894,10,603,4.421851577866315,Rear Window (1954),Mystery|Thriller
+913,1,190,4.263640831329131,Henry V (1989),Drama|War
+913,2,1142,4.185415749318636,When We Were Kings (1996),Documentary
+913,3,205,4.1787828116804855,Patton (1970),Drama|War
+913,4,521,4.155826425409123,"Deer Hunter, The (1978)",Drama|War
+913,5,178,4.150623632303136,12 Angry Men (1957),Drama
+913,6,451,4.119122070680324,Grease (1978),Comedy|Musical|Romance
+913,7,196,4.109666498347741,Dead Poets Society (1989),Drama
+913,8,705,4.096077896122042,Singin' in the Rain (1952),Musical|Romance
+913,9,480,4.069078927890226,North by Northwest (1959),Comedy|Thriller
+913,10,654,4.065332856423436,Chinatown (1974),Film-Noir|Mystery|Thriller
+924,1,169,4.543846974562389,"Wrong Trousers, The (1993)",Animation|Comedy
+924,2,408,4.535784272055557,"Close Shave, A (1995)",Animation|Comedy|Thriller
+924,3,657,4.481204450323662,"Manchurian Candidate, The (1962)",Film-Noir|Thriller
+924,4,483,4.433460310535824,Casablanca (1942),Drama|Romance|War
+924,5,603,4.352610966547983,Rear Window (1954),Mystery|Thriller
+924,6,315,4.309281935680205,Apt Pupil (1998),Drama|Thriller
+924,7,251,4.307762004265584,Shall We Dance? (1996),Comedy
+924,8,963,4.289278023456251,Some Folks Call It a Sling Blade (1993),Drama|Thriller
+924,9,194,4.274807793078018,"Sting, The (1973)",Comedy|Crime
+924,10,1524,4.268185418182778,Kaspar Hauser (1993),Drama
+940,1,408,4.431202585455624,"Close Shave, A (1995)",Animation|Comedy|Thriller
+940,2,169,4.286044068349243,"Wrong Trousers, The (1993)",Animation|Comedy
+940,3,1,4.236122188811638,Toy Story (1995),Animation|Children's|Comedy
+940,4,64,4.199163292078307,"Shawshank Redemption, The (1994)",Drama
+940,5,114,4.188646900384182,Wallace & Gromit: The Best of Aardman Animation (1996),Animation
+940,6,15,4.169317583955037,Mr. Holland's Opus (1995),Drama
+940,7,223,4.127527790742,Sling Blade (1996),Drama|Thriller
+940,8,113,4.1155215888798065,"Horseman on the Roof, The (Hussard sur le toit, Le) (1995)",Drama
+940,9,479,4.10613677541743,Vertigo (1958),Mystery|Thriller
+940,10,210,4.096873010370934,Indiana Jones and the Last Crusade (1989),Action|Adventure

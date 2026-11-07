@@ -1,0 +1,951 @@
+user_id,rank,item_id,score,title,genres
+1,1,294,396.0,Liar Liar (1997),Comedy
+1,2,288,383.0,Scream (1996),Horror|Thriller
+1,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+1,4,300,315.0,Air Force One (1997),Action|Thriller
+1,5,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+1,6,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+1,7,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+1,8,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+1,9,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+1,10,318,236.0,Schindler's List (1993),Drama|War
+3,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+3,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+3,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+3,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+3,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+3,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+3,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+3,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+3,9,56,329.0,Pulp Fiction (1994),Crime|Drama
+3,10,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+13,1,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+13,2,15,252.0,Mr. Holland's Opus (1995),Drama
+13,3,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+13,4,742,228.0,Ransom (1996),Drama|Thriller
+13,5,269,209.0,"Full Monty, The (1997)",Comedy
+13,6,125,208.0,Phenomenon (1996),Drama|Romance
+13,7,186,205.0,"Blues Brothers, The (1980)",Action|Comedy|Musical
+13,8,282,197.0,"Time to Kill, A (1996)",Drama
+13,9,245,183.0,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+13,10,496,179.0,It's a Wonderful Life (1946),Drama
+14,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+14,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+14,3,294,396.0,Liar Liar (1997),Comedy
+14,4,258,394.0,Contact (1997),Drama|Sci-Fi
+14,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+14,6,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+14,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+14,8,237,321.0,Jerry Maguire (1996),Drama|Romance
+14,9,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+14,10,300,315.0,Air Force One (1997),Action|Thriller
+43,1,288,383.0,Scream (1996),Horror|Thriller
+43,2,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+43,3,195,248.0,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+43,4,96,240.0,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+43,5,22,236.0,Braveheart (1995),Action|Drama|War
+43,6,176,233.0,Aliens (1986),Action|Sci-Fi|Thriller|War
+43,7,183,232.0,Alien (1979),Action|Horror|Sci-Fi|Thriller
+43,8,234,230.0,Jaws (1975),Action|Horror
+43,9,89,223.0,Blade Runner (1982),Film-Noir|Sci-Fi
+43,10,475,219.0,Trainspotting (1996),Drama
+54,1,294,396.0,Liar Liar (1997),Comedy
+54,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+54,3,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+54,4,56,329.0,Pulp Fiction (1994),Crime|Drama
+54,5,300,315.0,Air Force One (1997),Action|Thriller
+54,6,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+54,7,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+54,8,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+54,9,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+54,10,79,275.0,"Fugitive, The (1993)",Action|Thriller
+58,1,294,396.0,Liar Liar (1997),Comedy
+58,2,258,394.0,Contact (1997),Drama|Sci-Fi
+58,3,288,383.0,Scream (1996),Horror|Thriller
+58,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+58,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+58,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+58,7,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+58,8,79,275.0,"Fugitive, The (1993)",Action|Thriller
+58,9,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+58,10,118,252.0,Twister (1996),Action|Adventure|Thriller
+60,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+60,2,294,396.0,Liar Liar (1997),Comedy
+60,3,258,394.0,Contact (1997),Drama|Sci-Fi
+60,4,288,383.0,Scream (1996),Horror|Thriller
+60,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+60,6,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+60,7,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+60,8,300,315.0,Air Force One (1997),Action|Thriller
+60,9,25,252.0,"Birdcage, The (1996)",Comedy
+60,10,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+64,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+64,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+64,3,294,396.0,Liar Liar (1997),Comedy
+64,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+64,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+64,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+64,7,56,329.0,Pulp Fiction (1994),Crime|Drama
+64,8,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+64,9,237,321.0,Jerry Maguire (1996),Drama|Romance
+64,10,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+83,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+83,2,258,394.0,Contact (1997),Drama|Sci-Fi
+83,3,288,383.0,Scream (1996),Horror|Thriller
+83,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+83,5,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+83,6,237,321.0,Jerry Maguire (1996),Drama|Romance
+83,7,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+83,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+83,9,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+83,10,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+85,1,294,396.0,Liar Liar (1997),Comedy
+85,2,288,383.0,Scream (1996),Horror|Thriller
+85,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+85,4,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+85,5,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+85,6,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+85,7,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+85,8,15,252.0,Mr. Holland's Opus (1995),Drama
+85,9,118,252.0,Twister (1996),Action|Adventure|Thriller
+85,10,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+92,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+92,2,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+92,3,300,315.0,Air Force One (1997),Action|Thriller
+92,4,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+92,5,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+92,6,275,219.0,Sense and Sensibility (1995),Drama|Romance
+92,7,302,215.0,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+92,8,357,211.0,One Flew Over the Cuckoo's Nest (1975),Drama
+92,9,269,209.0,"Full Monty, The (1997)",Comedy
+92,10,97,209.0,Dances with Wolves (1990),Adventure|Drama|Western
+94,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+94,2,294,396.0,Liar Liar (1997),Comedy
+94,3,258,394.0,Contact (1997),Drama|Sci-Fi
+94,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+94,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+94,6,56,329.0,Pulp Fiction (1994),Crime|Drama
+94,7,237,321.0,Jerry Maguire (1996),Drama|Romance
+94,8,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+94,9,300,315.0,Air Force One (1997),Action|Thriller
+94,10,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+102,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+102,2,237,321.0,Jerry Maguire (1996),Drama|Romance
+102,3,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+102,4,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+102,5,15,252.0,Mr. Holland's Opus (1995),Drama
+102,6,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+102,7,25,252.0,"Birdcage, The (1996)",Comedy
+102,8,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+102,9,9,250.0,Dead Man Walking (1995),Drama
+102,10,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+112,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+112,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+112,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+112,4,288,383.0,Scream (1996),Horror|Thriller
+112,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+112,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+112,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+112,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+112,9,56,329.0,Pulp Fiction (1994),Crime|Drama
+112,10,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+116,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+116,2,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+116,3,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+116,4,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+116,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+116,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+116,7,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+116,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+116,9,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+116,10,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+119,1,294,396.0,Liar Liar (1997),Comedy
+119,2,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+119,3,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+119,4,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+119,5,79,275.0,"Fugitive, The (1993)",Action|Thriller
+119,6,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+119,7,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+119,8,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+119,9,15,252.0,Mr. Holland's Opus (1995),Drama
+119,10,118,252.0,Twister (1996),Action|Adventure|Thriller
+125,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+125,2,100,417.0,Fargo (1996),Crime|Drama|Thriller
+125,3,294,396.0,Liar Liar (1997),Comedy
+125,4,258,394.0,Contact (1997),Drama|Sci-Fi
+125,5,288,383.0,Scream (1996),Horror|Thriller
+125,6,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+125,7,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+125,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+125,9,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+125,10,237,321.0,Jerry Maguire (1996),Drama|Romance
+145,1,288,383.0,Scream (1996),Horror|Thriller
+145,2,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+145,3,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+145,4,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+145,5,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+145,6,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+145,7,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+145,8,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+145,9,318,236.0,Schindler's List (1993),Drama|War
+145,10,28,225.0,Apollo 13 (1995),Action|Drama|Thriller
+152,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+152,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+152,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+152,4,258,394.0,Contact (1997),Drama|Sci-Fi
+152,5,288,383.0,Scream (1996),Horror|Thriller
+152,6,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+152,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+152,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+152,9,56,329.0,Pulp Fiction (1994),Crime|Drama
+152,10,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+159,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+159,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+159,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+159,4,258,394.0,Contact (1997),Drama|Sci-Fi
+159,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+159,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+159,7,56,329.0,Pulp Fiction (1994),Crime|Drama
+159,8,300,315.0,Air Force One (1997),Action|Thriller
+159,9,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+159,10,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+174,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+174,2,294,396.0,Liar Liar (1997),Comedy
+174,3,258,394.0,Contact (1997),Drama|Sci-Fi
+174,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+174,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+174,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+174,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+174,8,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+174,9,300,315.0,Air Force One (1997),Action|Thriller
+174,10,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+178,1,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+178,2,191,220.0,Amadeus (1984),Drama|Mystery
+178,3,475,219.0,Trainspotting (1996),Drama
+178,4,302,215.0,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+178,5,289,213.0,Evita (1996),Drama|Musical
+178,6,357,211.0,One Flew Over the Cuckoo's Nest (1975),Drama
+178,7,186,205.0,"Blues Brothers, The (1980)",Action|Comedy|Musical
+178,8,132,198.0,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+178,9,185,192.0,Psycho (1960),Horror|Romance|Thriller
+178,10,182,182.0,GoodFellas (1990),Crime|Drama
+186,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+186,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+186,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+186,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+186,5,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+186,6,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+186,7,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+186,8,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+186,9,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+186,10,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+193,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+193,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+193,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+193,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+193,5,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+193,6,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+193,7,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+193,8,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+193,9,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+193,10,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+195,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+195,2,294,396.0,Liar Liar (1997),Comedy
+195,3,288,383.0,Scream (1996),Horror|Thriller
+195,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+195,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+195,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+195,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+195,8,56,329.0,Pulp Fiction (1994),Crime|Drama
+195,9,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+195,10,237,321.0,Jerry Maguire (1996),Drama|Romance
+200,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+200,2,100,417.0,Fargo (1996),Crime|Drama|Thriller
+200,3,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+200,4,237,321.0,Jerry Maguire (1996),Drama|Romance
+200,5,300,315.0,Air Force One (1997),Action|Thriller
+200,6,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+200,7,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+200,8,64,240.0,"Shawshank Redemption, The (1994)",Drama
+200,9,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+200,10,12,228.0,"Usual Suspects, The (1995)",Crime|Thriller
+207,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+207,2,288,383.0,Scream (1996),Horror|Thriller
+207,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+207,4,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+207,5,300,315.0,Air Force One (1997),Action|Thriller
+207,6,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+207,7,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+207,8,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+207,9,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+207,10,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+210,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+210,2,294,396.0,Liar Liar (1997),Comedy
+210,3,258,394.0,Contact (1997),Drama|Sci-Fi
+210,4,288,383.0,Scream (1996),Horror|Thriller
+210,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+210,6,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+210,7,237,321.0,Jerry Maguire (1996),Drama|Romance
+210,8,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+210,9,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+210,10,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+233,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+233,2,294,396.0,Liar Liar (1997),Comedy
+233,3,258,394.0,Contact (1997),Drama|Sci-Fi
+233,4,288,383.0,Scream (1996),Horror|Thriller
+233,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+233,6,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+233,7,237,321.0,Jerry Maguire (1996),Drama|Romance
+233,8,300,315.0,Air Force One (1997),Action|Thriller
+233,9,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+233,10,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+276,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+276,2,15,252.0,Mr. Holland's Opus (1995),Drama
+276,3,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+276,4,216,226.0,When Harry Met Sally... (1989),Comedy|Romance
+276,5,191,220.0,Amadeus (1984),Drama|Mystery
+276,6,275,219.0,Sense and Sensibility (1995),Drama|Romance
+276,7,289,213.0,Evita (1996),Drama|Musical
+276,8,132,198.0,"Wizard of Oz, The (1939)",Adventure|Children's|Drama|Musical
+276,9,194,194.0,"Sting, The (1973)",Comedy|Crime
+276,10,483,186.0,Casablanca (1942),Drama|Romance|War
+279,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+279,2,258,394.0,Contact (1997),Drama|Sci-Fi
+279,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+279,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+279,5,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+279,6,237,321.0,Jerry Maguire (1996),Drama|Romance
+279,7,300,315.0,Air Force One (1997),Action|Thriller
+279,8,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+279,9,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+279,10,118,252.0,Twister (1996),Action|Adventure|Thriller
+286,1,294,396.0,Liar Liar (1997),Comedy
+286,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+286,3,300,315.0,Air Force One (1997),Action|Thriller
+286,4,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+286,5,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+286,6,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+286,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+286,8,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+286,9,118,252.0,Twister (1996),Action|Adventure|Thriller
+286,10,15,252.0,Mr. Holland's Opus (1995),Drama
+294,1,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+294,2,56,329.0,Pulp Fiction (1994),Crime|Drama
+294,3,237,321.0,Jerry Maguire (1996),Drama|Romance
+294,4,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+294,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+294,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+294,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+294,8,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+294,9,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+294,10,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+299,1,258,394.0,Contact (1997),Drama|Sci-Fi
+299,2,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+299,3,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+299,4,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+299,5,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+299,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+299,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+299,8,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+299,9,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+299,10,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+319,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+319,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+319,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+319,4,294,396.0,Liar Liar (1997),Comedy
+319,5,258,394.0,Contact (1997),Drama|Sci-Fi
+319,6,288,383.0,Scream (1996),Horror|Thriller
+319,7,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+319,8,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+319,9,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+319,10,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+328,1,288,383.0,Scream (1996),Horror|Thriller
+328,2,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+328,3,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+328,4,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+328,5,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+328,6,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+328,7,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+328,8,15,252.0,Mr. Holland's Opus (1995),Drama
+328,9,25,252.0,"Birdcage, The (1996)",Comedy
+328,10,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+332,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+332,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+332,3,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+332,4,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+332,5,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+332,6,25,252.0,"Birdcage, The (1996)",Comedy
+332,7,15,252.0,Mr. Holland's Opus (1995),Drama
+332,8,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+332,9,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+332,10,318,236.0,Schindler's List (1993),Drama|War
+344,1,294,396.0,Liar Liar (1997),Comedy
+344,2,288,383.0,Scream (1996),Horror|Thriller
+344,3,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+344,4,56,329.0,Pulp Fiction (1994),Crime|Drama
+344,5,300,315.0,Air Force One (1997),Action|Thriller
+344,6,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+344,7,15,252.0,Mr. Holland's Opus (1995),Drama
+344,8,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+344,9,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+344,10,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+378,1,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+378,2,300,315.0,Air Force One (1997),Action|Thriller
+378,3,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+378,4,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+378,5,475,219.0,Trainspotting (1996),Drama
+378,6,302,215.0,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+378,7,328,215.0,Conspiracy Theory (1997),Action|Mystery|Romance|Thriller
+378,8,289,213.0,Evita (1996),Drama|Musical
+378,9,357,211.0,One Flew Over the Cuckoo's Nest (1975),Drama
+378,10,269,209.0,"Full Monty, The (1997)",Comedy
+379,1,258,394.0,Contact (1997),Drama|Sci-Fi
+379,2,288,383.0,Scream (1996),Horror|Thriller
+379,3,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+379,4,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+379,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+379,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+379,7,300,315.0,Air Force One (1997),Action|Thriller
+379,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+379,9,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+379,10,25,252.0,"Birdcage, The (1996)",Comedy
+393,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+393,2,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+393,3,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+393,4,300,315.0,Air Force One (1997),Action|Thriller
+393,5,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+393,6,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+393,7,195,248.0,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+393,8,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+393,9,96,240.0,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+393,10,176,233.0,Aliens (1986),Action|Sci-Fi|Thriller|War
+397,1,294,396.0,Liar Liar (1997),Comedy
+397,2,258,394.0,Contact (1997),Drama|Sci-Fi
+397,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+397,4,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+397,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+397,6,300,315.0,Air Force One (1997),Action|Thriller
+397,7,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+397,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+397,9,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+397,10,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+407,1,294,396.0,Liar Liar (1997),Comedy
+407,2,288,383.0,Scream (1996),Horror|Thriller
+407,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+407,4,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+407,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+407,6,300,315.0,Air Force One (1997),Action|Thriller
+407,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+407,8,15,252.0,Mr. Holland's Opus (1995),Drama
+407,9,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+407,10,9,250.0,Dead Man Walking (1995),Drama
+416,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+416,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+416,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+416,4,258,394.0,Contact (1997),Drama|Sci-Fi
+416,5,288,383.0,Scream (1996),Horror|Thriller
+416,6,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+416,7,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+416,8,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+416,9,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+416,10,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+425,1,237,321.0,Jerry Maguire (1996),Drama|Romance
+425,2,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+425,3,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+425,4,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+425,5,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+425,6,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+425,7,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+425,8,15,252.0,Mr. Holland's Opus (1995),Drama
+425,9,25,252.0,"Birdcage, The (1996)",Comedy
+425,10,423,251.0,E.T. the Extra-Terrestrial (1982),Children's|Drama|Fantasy|Sci-Fi
+428,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+428,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+428,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+428,4,258,394.0,Contact (1997),Drama|Sci-Fi
+428,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+428,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+428,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+428,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+428,9,56,329.0,Pulp Fiction (1994),Crime|Drama
+428,10,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+450,1,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+450,2,9,250.0,Dead Man Walking (1995),Drama
+450,3,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+450,4,475,219.0,Trainspotting (1996),Drama
+450,5,289,213.0,Evita (1996),Drama|Musical
+450,6,268,194.0,Chasing Amy (1997),Drama|Romance
+450,7,323,188.0,Dante's Peak (1997),Action|Thriller
+450,8,245,183.0,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+450,9,8,180.0,Babe (1995),Children's|Comedy|Drama
+450,10,508,175.0,"People vs. Larry Flynt, The (1996)",Drama
+455,1,294,396.0,Liar Liar (1997),Comedy
+455,2,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+455,3,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+455,4,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+455,5,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+455,6,195,248.0,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+455,7,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+455,8,202,230.0,Groundhog Day (1993),Comedy|Romance
+455,9,742,228.0,Ransom (1996),Drama|Thriller
+455,10,216,226.0,When Harry Met Sally... (1989),Comedy|Romance
+458,1,294,396.0,Liar Liar (1997),Comedy
+458,2,258,394.0,Contact (1997),Drama|Sci-Fi
+458,3,300,315.0,Air Force One (1997),Action|Thriller
+458,4,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+458,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+458,6,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+458,7,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+458,8,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+458,9,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+458,10,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+463,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+463,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+463,3,294,396.0,Liar Liar (1997),Comedy
+463,4,288,383.0,Scream (1996),Horror|Thriller
+463,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+463,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+463,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+463,8,56,329.0,Pulp Fiction (1994),Crime|Drama
+463,9,300,315.0,Air Force One (1997),Action|Thriller
+463,10,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+472,1,258,394.0,Contact (1997),Drama|Sci-Fi
+472,2,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+472,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+472,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+472,5,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+472,6,237,321.0,Jerry Maguire (1996),Drama|Romance
+472,7,300,315.0,Air Force One (1997),Action|Thriller
+472,8,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+472,9,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+472,10,79,275.0,"Fugitive, The (1993)",Action|Thriller
+483,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+483,2,294,396.0,Liar Liar (1997),Comedy
+483,3,288,383.0,Scream (1996),Horror|Thriller
+483,4,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+483,5,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+483,6,56,329.0,Pulp Fiction (1994),Crime|Drama
+483,7,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+483,8,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+483,9,300,315.0,Air Force One (1997),Action|Thriller
+483,10,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+484,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+484,2,288,383.0,Scream (1996),Horror|Thriller
+484,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+484,4,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+484,5,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+484,6,56,329.0,Pulp Fiction (1994),Crime|Drama
+484,7,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+484,8,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+484,9,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+484,10,79,275.0,"Fugitive, The (1993)",Action|Thriller
+500,1,288,383.0,Scream (1996),Horror|Thriller
+500,2,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+500,3,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+500,4,79,275.0,"Fugitive, The (1993)",Action|Thriller
+500,5,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+500,6,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+500,7,195,248.0,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+500,8,96,240.0,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+500,9,64,240.0,"Shawshank Redemption, The (1994)",Drama
+500,10,318,236.0,Schindler's List (1993),Drama|War
+503,1,294,396.0,Liar Liar (1997),Comedy
+503,2,258,394.0,Contact (1997),Drama|Sci-Fi
+503,3,288,383.0,Scream (1996),Horror|Thriller
+503,4,56,329.0,Pulp Fiction (1994),Crime|Drama
+503,5,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+503,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+503,7,300,315.0,Air Force One (1997),Action|Thriller
+503,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+503,9,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+503,10,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+504,1,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+504,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+504,3,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+504,4,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+504,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+504,6,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+504,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+504,8,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+504,9,15,252.0,Mr. Holland's Opus (1995),Drama
+504,10,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+505,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+505,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+505,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+505,4,288,383.0,Scream (1996),Horror|Thriller
+505,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+505,6,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+505,7,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+505,8,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+505,9,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+505,10,56,329.0,Pulp Fiction (1994),Crime|Drama
+506,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+506,2,288,383.0,Scream (1996),Horror|Thriller
+506,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+506,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+506,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+506,6,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+506,7,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+506,8,237,321.0,Jerry Maguire (1996),Drama|Romance
+506,9,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+506,10,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+514,1,288,383.0,Scream (1996),Horror|Thriller
+514,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+514,3,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+514,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+514,5,56,329.0,Pulp Fiction (1994),Crime|Drama
+514,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+514,7,300,315.0,Air Force One (1997),Action|Thriller
+514,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+514,9,9,250.0,Dead Man Walking (1995),Drama
+514,10,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+517,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+517,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+517,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+517,4,294,396.0,Liar Liar (1997),Comedy
+517,5,258,394.0,Contact (1997),Drama|Sci-Fi
+517,6,288,383.0,Scream (1996),Horror|Thriller
+517,7,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+517,8,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+517,9,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+517,10,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+530,1,294,396.0,Liar Liar (1997),Comedy
+530,2,258,394.0,Contact (1997),Drama|Sci-Fi
+530,3,288,383.0,Scream (1996),Horror|Thriller
+530,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+530,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+530,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+530,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+530,8,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+530,9,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+530,10,300,315.0,Air Force One (1997),Action|Thriller
+532,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+532,2,100,417.0,Fargo (1996),Crime|Drama|Thriller
+532,3,294,396.0,Liar Liar (1997),Comedy
+532,4,258,394.0,Contact (1997),Drama|Sci-Fi
+532,5,288,383.0,Scream (1996),Horror|Thriller
+532,6,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+532,7,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+532,8,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+532,9,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+532,10,56,329.0,Pulp Fiction (1994),Crime|Drama
+533,1,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+533,2,79,275.0,"Fugitive, The (1993)",Action|Thriller
+533,3,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+533,4,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+533,5,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+533,6,183,232.0,Alien (1979),Action|Horror|Sci-Fi|Thriller
+533,7,89,223.0,Blade Runner (1982),Film-Noir|Sci-Fi
+533,8,302,215.0,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+533,9,269,209.0,"Full Monty, The (1997)",Comedy
+533,10,125,208.0,Phenomenon (1996),Drama|Romance
+577,1,258,394.0,Contact (1997),Drama|Sci-Fi
+577,2,288,383.0,Scream (1996),Horror|Thriller
+577,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+577,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+577,5,300,315.0,Air Force One (1997),Action|Thriller
+577,6,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+577,7,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+577,8,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+577,9,9,250.0,Dead Man Walking (1995),Drama
+577,10,195,248.0,"Terminator, The (1984)",Action|Sci-Fi|Thriller
+621,1,294,396.0,Liar Liar (1997),Comedy
+621,2,258,394.0,Contact (1997),Drama|Sci-Fi
+621,3,288,383.0,Scream (1996),Horror|Thriller
+621,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+621,5,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+621,6,56,329.0,Pulp Fiction (1994),Crime|Drama
+621,7,237,321.0,Jerry Maguire (1996),Drama|Romance
+621,8,300,315.0,Air Force One (1997),Action|Thriller
+621,9,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+621,10,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+624,1,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+624,2,56,329.0,Pulp Fiction (1994),Crime|Drama
+624,3,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+624,4,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+624,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+624,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+624,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+624,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+624,9,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+624,10,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+634,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+634,2,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+634,3,56,329.0,Pulp Fiction (1994),Crime|Drama
+634,4,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+634,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+634,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+634,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+634,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+634,9,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+634,10,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+640,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+640,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+640,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+640,4,294,396.0,Liar Liar (1997),Comedy
+640,5,258,394.0,Contact (1997),Drama|Sci-Fi
+640,6,288,383.0,Scream (1996),Horror|Thriller
+640,7,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+640,8,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+640,9,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+640,10,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+642,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+642,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+642,3,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+642,4,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+642,5,300,315.0,Air Force One (1997),Action|Thriller
+642,6,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+642,7,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+642,8,79,275.0,"Fugitive, The (1993)",Action|Thriller
+642,9,25,252.0,"Birdcage, The (1996)",Comedy
+642,10,9,250.0,Dead Man Walking (1995),Drama
+653,1,288,383.0,Scream (1996),Horror|Thriller
+653,2,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+653,3,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+653,4,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+653,5,25,252.0,"Birdcage, The (1996)",Comedy
+653,6,9,250.0,Dead Man Walking (1995),Drama
+653,7,276,247.0,Leaving Las Vegas (1995),Drama|Romance
+653,8,12,228.0,"Usual Suspects, The (1995)",Crime|Thriller
+653,9,475,219.0,Trainspotting (1996),Drama
+653,10,275,219.0,Sense and Sensibility (1995),Drama|Romance
+654,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+654,2,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+654,3,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+654,4,9,250.0,Dead Man Walking (1995),Drama
+654,5,96,240.0,Terminator 2: Judgment Day (1991),Action|Sci-Fi|Thriller
+654,6,64,240.0,"Shawshank Redemption, The (1994)",Drama
+654,7,176,233.0,Aliens (1986),Action|Sci-Fi|Thriller|War
+654,8,183,232.0,Alien (1979),Action|Horror|Sci-Fi|Thriller
+654,9,202,230.0,Groundhog Day (1993),Comedy|Romance
+654,10,234,230.0,Jaws (1975),Action|Horror
+655,1,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+655,2,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+655,3,168,255.0,Monty Python and the Holy Grail (1974),Comedy
+655,4,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+655,5,9,250.0,Dead Man Walking (1995),Drama
+655,6,546,218.0,Broken Arrow (1996),Action|Thriller
+655,7,194,194.0,"Sting, The (1973)",Comedy|Crime
+655,8,323,188.0,Dante's Peak (1997),Action|Thriller
+655,9,245,183.0,"Devil's Own, The (1997)",Action|Drama|Thriller|War
+655,10,95,181.0,Aladdin (1992),Animation|Children's|Comedy|Musical
+661,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+661,2,288,383.0,Scream (1996),Horror|Thriller
+661,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+661,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+661,5,56,329.0,Pulp Fiction (1994),Crime|Drama
+661,6,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+661,7,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+661,8,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+661,9,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+661,10,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+668,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+668,2,100,417.0,Fargo (1996),Crime|Drama|Thriller
+668,3,294,396.0,Liar Liar (1997),Comedy
+668,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+668,5,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+668,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+668,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+668,8,56,329.0,Pulp Fiction (1994),Crime|Drama
+668,9,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+668,10,237,321.0,Jerry Maguire (1996),Drama|Romance
+677,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+677,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+677,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+677,4,258,394.0,Contact (1997),Drama|Sci-Fi
+677,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+677,6,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+677,7,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+677,8,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+677,9,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+677,10,56,329.0,Pulp Fiction (1994),Crime|Drama
+699,1,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+699,2,56,329.0,Pulp Fiction (1994),Crime|Drama
+699,3,237,321.0,Jerry Maguire (1996),Drama|Romance
+699,4,300,315.0,Air Force One (1997),Action|Thriller
+699,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+699,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+699,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+699,8,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+699,9,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+699,10,173,266.0,"Princess Bride, The (1987)",Action|Adventure|Comedy|Romance
+707,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+707,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+707,3,258,394.0,Contact (1997),Drama|Sci-Fi
+707,4,288,383.0,Scream (1996),Horror|Thriller
+707,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+707,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+707,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+707,8,56,329.0,Pulp Fiction (1994),Crime|Drama
+707,9,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+707,10,237,321.0,Jerry Maguire (1996),Drama|Romance
+708,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+708,2,294,396.0,Liar Liar (1997),Comedy
+708,3,258,394.0,Contact (1997),Drama|Sci-Fi
+708,4,288,383.0,Scream (1996),Horror|Thriller
+708,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+708,6,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+708,7,56,329.0,Pulp Fiction (1994),Crime|Drama
+708,8,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+708,9,237,321.0,Jerry Maguire (1996),Drama|Romance
+708,10,300,315.0,Air Force One (1997),Action|Thriller
+711,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+711,2,294,396.0,Liar Liar (1997),Comedy
+711,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+711,4,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+711,5,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+711,6,56,329.0,Pulp Fiction (1994),Crime|Drama
+711,7,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+711,8,237,321.0,Jerry Maguire (1996),Drama|Romance
+711,9,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+711,10,300,315.0,Air Force One (1997),Action|Thriller
+738,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+738,2,294,396.0,Liar Liar (1997),Comedy
+738,3,288,383.0,Scream (1996),Horror|Thriller
+738,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+738,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+738,6,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+738,7,237,321.0,Jerry Maguire (1996),Drama|Romance
+738,8,300,315.0,Air Force One (1997),Action|Thriller
+738,9,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+738,10,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+751,1,294,396.0,Liar Liar (1997),Comedy
+751,2,258,394.0,Contact (1997),Drama|Sci-Fi
+751,3,288,383.0,Scream (1996),Horror|Thriller
+751,4,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+751,5,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+751,6,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+751,7,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+751,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+751,9,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+751,10,15,252.0,Mr. Holland's Opus (1995),Drama
+810,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+810,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+810,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+810,4,258,394.0,Contact (1997),Drama|Sci-Fi
+810,5,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+810,6,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+810,7,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+810,8,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+810,9,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+810,10,56,329.0,Pulp Fiction (1994),Crime|Drama
+825,1,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+825,2,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+825,3,56,329.0,Pulp Fiction (1994),Crime|Drama
+825,4,300,315.0,Air Force One (1997),Action|Thriller
+825,5,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+825,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+825,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+825,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+825,9,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+825,10,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+829,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+829,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+829,3,288,383.0,Scream (1996),Horror|Thriller
+829,4,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+829,5,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+829,6,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+829,7,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+829,8,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+829,9,56,329.0,Pulp Fiction (1994),Crime|Drama
+829,10,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+838,1,294,396.0,Liar Liar (1997),Comedy
+838,2,288,383.0,Scream (1996),Horror|Thriller
+838,3,237,321.0,Jerry Maguire (1996),Drama|Romance
+838,4,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+838,5,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+838,6,79,275.0,"Fugitive, The (1993)",Action|Thriller
+838,7,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+838,8,25,252.0,"Birdcage, The (1996)",Comedy
+838,9,118,252.0,Twister (1996),Action|Adventure|Thriller
+838,10,15,252.0,Mr. Holland's Opus (1995),Drama
+851,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+851,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+851,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+851,4,294,396.0,Liar Liar (1997),Comedy
+851,5,288,383.0,Scream (1996),Horror|Thriller
+851,6,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+851,7,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+851,8,7,328.0,Twelve Monkeys (1995),Drama|Sci-Fi
+851,9,237,321.0,Jerry Maguire (1996),Drama|Romance
+851,10,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+864,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+864,2,300,315.0,Air Force One (1997),Action|Thriller
+864,3,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+864,4,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+864,5,89,223.0,Blade Runner (1982),Film-Noir|Sci-Fi
+864,6,475,219.0,Trainspotting (1996),Drama
+864,7,302,215.0,L.A. Confidential (1997),Crime|Film-Noir|Mystery|Thriller
+864,8,289,213.0,Evita (1996),Drama|Musical
+864,9,135,212.0,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+864,10,269,209.0,"Full Monty, The (1997)",Comedy
+870,1,100,417.0,Fargo (1996),Crime|Drama|Thriller
+870,2,294,396.0,Liar Liar (1997),Comedy
+870,3,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+870,4,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+870,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+870,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+870,7,300,315.0,Air Force One (1997),Action|Thriller
+870,8,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+870,9,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+870,10,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+880,1,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+880,2,15,252.0,Mr. Holland's Opus (1995),Drama
+880,3,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+880,4,9,250.0,Dead Man Walking (1995),Drama
+880,5,183,232.0,Alien (1979),Action|Horror|Sci-Fi|Thriller
+880,6,216,226.0,When Harry Met Sally... (1989),Comedy|Romance
+880,7,89,223.0,Blade Runner (1982),Film-Noir|Sci-Fi
+880,8,275,219.0,Sense and Sensibility (1995),Drama|Romance
+880,9,289,213.0,Evita (1996),Drama|Musical
+880,10,135,212.0,2001: A Space Odyssey (1968),Drama|Mystery|Sci-Fi|Thriller
+891,1,50,473.0,Star Wars (1977),Action|Adventure|Romance|Sci-Fi|War
+891,2,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+891,3,100,417.0,Fargo (1996),Crime|Drama|Thriller
+891,4,294,396.0,Liar Liar (1997),Comedy
+891,5,258,394.0,Contact (1997),Drama|Sci-Fi
+891,6,288,383.0,Scream (1996),Horror|Thriller
+891,7,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+891,8,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+891,9,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+891,10,56,329.0,Pulp Fiction (1994),Crime|Drama
+894,1,181,423.0,Return of the Jedi (1983),Action|Adventure|Romance|Sci-Fi|War
+894,2,294,396.0,Liar Liar (1997),Comedy
+894,3,174,341.0,Raiders of the Lost Ark (1981),Action|Adventure
+894,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+894,5,56,329.0,Pulp Fiction (1994),Crime|Drama
+894,6,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+894,7,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+894,8,172,299.0,"Empire Strikes Back, The (1980)",Action|Adventure|Drama|Romance|Sci-Fi|War
+894,9,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+894,10,79,275.0,"Fugitive, The (1993)",Action|Thriller
+913,1,294,396.0,Liar Liar (1997),Comedy
+913,2,258,394.0,Contact (1997),Drama|Sci-Fi
+913,3,286,370.0,"English Patient, The (1996)",Drama|Romance|War
+913,4,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+913,5,300,315.0,Air Force One (1997),Action|Thriller
+913,6,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+913,7,257,252.0,Men in Black (1997),Action|Adventure|Comedy|Sci-Fi
+913,8,118,252.0,Twister (1996),Action|Adventure|Thriller
+913,9,748,250.0,"Saint, The (1997)",Action|Romance|Thriller
+913,10,111,236.0,"Truth About Cats & Dogs, The (1996)",Comedy|Romance
+924,1,294,396.0,Liar Liar (1997),Comedy
+924,2,237,321.0,Jerry Maguire (1996),Drama|Romance
+924,3,98,313.0,"Silence of the Lambs, The (1991)",Drama|Thriller
+924,4,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+924,5,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+924,6,204,290.0,Back to the Future (1985),Comedy|Sci-Fi
+924,7,79,275.0,"Fugitive, The (1993)",Action|Thriller
+924,8,151,270.0,Willy Wonka and the Chocolate Factory (1971),Adventure|Children's|Comedy
+924,9,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
+924,10,69,267.0,Forrest Gump (1994),Comedy|Romance|War
+940,1,288,383.0,Scream (1996),Horror|Thriller
+940,2,1,374.0,Toy Story (1995),Animation|Children's|Comedy
+940,3,121,366.0,Independence Day (ID4) (1996),Action|Sci-Fi|War
+940,4,127,332.0,"Godfather, The (1972)",Action|Crime|Drama
+940,5,237,321.0,Jerry Maguire (1996),Drama|Romance
+940,6,117,319.0,"Rock, The (1996)",Action|Adventure|Thriller
+940,7,222,310.0,Star Trek: First Contact (1996),Action|Adventure|Sci-Fi
+940,8,405,291.0,Mission: Impossible (1996),Action|Adventure|Mystery
+940,9,79,275.0,"Fugitive, The (1993)",Action|Thriller
+940,10,210,268.0,Indiana Jones and the Last Crusade (1989),Action|Adventure
